@@ -1,0 +1,5 @@
+{
+    "require": {
+        "zenstruck/jwt": "^1.0"
+    }
+}

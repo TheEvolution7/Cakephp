@@ -1,0 +1,73 @@
+{
+    "packages": [
+        {
+            "name": "zenstruck/jwt",
+            "version": "v1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kbond/php-jwt.git",
+                "reference": "590397b5be52f7a0601eeef990e42b952fc30ea2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kbond/php-jwt/zipball/590397b5be52f7a0601eeef990e42b952fc30ea2",
+                "reference": "590397b5be52f7a0601eeef990e42b952fc30ea2",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.8"
+            },
+            "require-dev": {
+                "sllh/php-cs-fixer-styleci-bridge": "^1.4",
+                "symfony/polyfill-php56": "^1.0"
+            },
+            "suggest": {
+                "symfony/polyfill-php56": "When using HMAC signers in PHP 5.4/5.5 environments"
+            },
+            "time": "2015-12-09T17:51:46+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Zenstruck\\JWT\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kevin Bond",
+                    "email": "kevinbond@gmail.com"
+                },
+                {
+                    "name": "Alessandro Nadalin",
+                    "email": "alessandro.nadalin@gmail.com"
+                }
+            ],
+            "description": "JSON Object Signing and Encryption library for PHP.",
+            "keywords": [
+                "JSON Web Signature",
+                "JSON Web Token",
+                "JWS",
+                "json",
+                "jwt",
+                "token"
+            ],
+            "support": {
+                "source": "https://github.com/kbond/php-jwt/tree/master"
+            },
+            "abandoned": "firebase/php-jwt",
+            "install-path": "../zenstruck/jwt"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

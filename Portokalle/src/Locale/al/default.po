@@ -1,0 +1,1498 @@
+#: Controller/AppController.php:102
+msgid "You do not have access"
+msgstr "You do not have access"
+
+#: Controller/ArticlesController.php:61
+#: Controller/PagesController.php:328
+msgid "Sent Successfully!"
+msgstr "Sent Successfully!"
+
+#: Controller/ArticlesController.php:83
+#: Controller/PagesController.php:155;331
+#: Template/Layout/error.ctp:35
+#: Template/Patient/Layout/error.ctp:35
+#: Template/Practitioner/Layout/error.ctp:35
+msgid "Error"
+msgstr "Error"
+
+#: Controller/CartsController.php:100
+msgid "Shipping addresses"
+msgstr "Shipping addresses"
+
+#: Controller/CartsController.php:116
+msgid "Payment method"
+msgstr "Payment method"
+
+#: Controller/CartsController.php:179
+msgid "Order completed"
+msgstr "Order completed"
+
+#: Controller/PagesController.php:113
+msgid "Your message has been successfully sent. We will contact you soon!"
+msgstr "Your message has been successfully sent. We will contact you soon!"
+
+#: Controller/Patient/AppointmentsController.php:371;401
+#: Template/Patient/Element/consults/confirm.ctp:15
+#: Template/Practitioner/Element/consults/confirm.ctp:15
+msgid "{year}-{month}-{day} {hour}:{minute}"
+msgstr "{year}-{month}-{day} {hour}:{minute}"
+
+#: Controller/Patient/AppointmentsController.php:377;410;1205;1230
+#: Controller/Practitioner/AppointmentsController.php:591;617
+#: Controller/AppointmentsController.php:66;105
+msgid "The appointment has been saved."
+msgstr "The appointment has been saved."
+
+#: Controller/Patient/AppointmentsController.php:381;412;1209;1234
+#: Controller/Practitioner/AppointmentsController.php:595;621
+#: Controller/AppointmentsController.php:70;109
+msgid "The appointment could not be saved. Please, try again."
+msgstr "The appointment could not be saved. Please, try again."
+
+#: Controller/Patient/AppointmentsController.php:728;851
+#: Template/Email/html/booking_complete.ctp:21;127
+#: Template/Email/html/connect_zoom.ctp:60
+#: Template/Patient/Appointments/payment_status.ctp:6
+#: Template/Patient/Appointments/view.ctp:6
+#: Template/Patient/Element/consults/details.ctp:6
+#: Template/Patient/Element/consults/payment.ctp:7
+#: Template/Patient/Element/consults/review.ctp:7
+msgid "{date} {time}"
+msgstr "{date} {time}"
+
+#: Controller/Patient/AppointmentsController.php:1252
+#: Controller/Practitioner/AppointmentsController.php:638
+#: Controller/AppointmentsController.php:144
+msgid "The appointment has been deleted."
+msgstr "The appointment has been deleted."
+
+#: Controller/Patient/AppointmentsController.php:1254
+#: Controller/Practitioner/AppointmentsController.php:640
+#: Controller/AppointmentsController.php:146
+msgid "The appointment could not be deleted. Please, try again."
+msgstr "The appointment could not be deleted. Please, try again."
+
+#: Controller/Patient/PatientsController.php:52;77
+msgid "The patient has been saved."
+msgstr "The patient has been saved."
+
+#: Controller/Patient/PatientsController.php:56;81
+msgid "The patient could not be saved. Please, try again."
+msgstr "The patient could not be saved. Please, try again."
+
+#: Controller/Patient/PatientsController.php:98
+#: Controller/Practitioner/PatientsController.php:53
+msgid "The patient has been deleted."
+msgstr "The patient has been deleted."
+
+#: Controller/Patient/PatientsController.php:100
+#: Controller/Practitioner/PatientsController.php:55
+msgid "The patient could not be deleted. Please, try again."
+msgstr "The patient could not be deleted. Please, try again."
+
+#: Controller/Patient/RecordsController.php:104;133
+msgid "The record has been saved."
+msgstr "The record has been saved."
+
+#: Controller/Patient/RecordsController.php:108;137
+msgid "The record could not be saved. Please, try again."
+msgstr "The record could not be saved. Please, try again."
+
+#: Controller/Patient/RecordsController.php:158
+msgid "The record has been deleted."
+msgstr "The record has been deleted."
+
+#: Controller/Patient/RecordsController.php:160
+msgid "The record could not be deleted. Please, try again."
+msgstr "The record could not be deleted. Please, try again."
+
+#: Controller/Patient/UsersController.php:31;42
+#: Controller/Practitioner/UsersController.php:31;42
+#: Controller/Practitioner/UsersControllerbk.php:20
+msgid "Your information has been updated !"
+msgstr "Your information has been updated !"
+
+#: Controller/Patient/UsersController.php:104
+#: Controller/Practitioner/UsersController.php:96
+msgid "You must active account by email"
+msgstr "You must active account by email"
+
+#: Controller/Patient/UsersController.php:109
+#: Controller/Practitioner/UsersController.php:101
+#: Controller/Practitioner/UsersControllerbk.php:34
+msgid "Username or password is incorrect"
+msgstr "Username or password is incorrect"
+
+#: Controller/Patient/UsersController.php:128
+#: Controller/Practitioner/UsersController.php:156
+#: Controller/UsersController.php:813;913
+msgid "This E-mail doesn't exist or the account has been deleted."
+msgstr "This E-mail doesn't exist or the account has been deleted."
+
+#: Controller/Patient/UsersController.php:152;240
+#: Controller/Practitioner/UsersController.php:180;290
+#: Controller/UsersController.php:831;931
+msgid ""
+"An E-mail has been send to <strong>{0}</strong>. Please follow the instructions "
+"in the E-mail."
+msgstr ""
+"An E-mail has been send to <strong>{0}</strong>. Please follow the instructions "
+"in the E-mail."
+
+#: Controller/Patient/UsersController.php:166;180;266;280
+#: Controller/Practitioner/UsersController.php:109;123;194;208
+#: Controller/UsersController.php:706;722;745;758;844;858
+msgid "This code is not associated with this users or is incorrect."
+msgstr "This code is not associated with this users or is incorrect."
+
+#: Controller/Patient/UsersController.php:188
+#: Controller/Practitioner/UsersController.php:216
+msgid "This code is expired, please ask another E-mail code."
+msgstr "This code is expired, please ask another E-mail code."
+
+#: Controller/Patient/UsersController.php:197
+#: Controller/Practitioner/UsersController.php:225
+msgid "Your password has been changed !"
+msgstr "Your password has been changed !"
+
+#: Controller/Patient/UsersController.php:244
+#: Controller/Practitioner/UsersController.php:294
+#: Controller/Practitioner/UsersControllerbk.php:54
+msgid "Please try again"
+msgstr "Please try again"
+
+#: Controller/Patient/UsersController.php:258
+#: Controller/Practitioner/UsersController.php:301
+msgid "See you later {0} !"
+msgstr "See you later {0} !"
+
+#: Controller/Patient/UsersController.php:292
+#: Controller/Practitioner/UsersController.php:135
+msgid "Your account has been actived !"
+msgstr "Your account has been actived !"
+
+#: Controller/Practitioner/AppointmentsController.php:98;187
+#: Model/Table/NotificationsTable.php:68
+#: Template/Patient/Appointments/booking.ctp:35
+#: Template/Patient/Appointments/index.ctp:42
+#: Template/Patient/Notifications/index.ctp:60
+#: Template/Practitioner/Appointments/edit.ctp:4
+#: Template/Practitioner/Appointments/index.ctp:80
+#: Template/Practitioner/Appointments/view.ctp:4
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: Model/Table/AppointmentsTable.php:65
+#: Template/Patient/Appointments/booking.ctp:26
+msgid "Patient"
+msgstr "Patient"
+
+#: Model/Table/AppointmentsTable.php:72
+msgid "Speciality"
+msgstr "Speciality"
+
+#: Model/Table/AppointmentsTable.php:78
+msgid "Details"
+msgstr "Details"
+
+#: Model/Table/AppointmentsTable.php:88
+msgid "Confirm Details"
+msgstr "Confirm Details"
+
+#: Model/Table/AppointmentsTable.php:94
+msgid "Provider pairing"
+msgstr "Provider pairing"
+
+#: Model/Table/NotificationsTable.php:62
+msgid "You have an appointment"
+msgstr "You have an appointment"
+
+#: Model/Table/NotificationsTable.php:70
+msgid "with {0} @ {1}"
+msgstr "with {0} @ {1}"
+
+#: Model/Table/UsersTable.php:78;98
+msgid "You must specify your password."
+msgstr "You must specify your password."
+
+#: Model/Table/UsersTable.php:84;117
+msgid "This E-mail is already used."
+msgstr "This E-mail is already used."
+
+#: Model/Table/UsersTable.php:88;121
+msgid "You must specify a valid E-mail address."
+msgstr "You must specify a valid E-mail address."
+
+#: Model/Table/UsersTable.php:99;131
+msgid "You must specify your password (confirmation)."
+msgstr "You must specify your password (confirmation)."
+
+#: Model/Table/UsersTable.php:103;135
+msgid "Your password (confirmation) must be between {0} and {1} characters."
+msgstr "Your password (confirmation) must be between {0} and {1} characters."
+
+#: Model/Table/UsersTable.php:109
+msgid "Your password confirm must match with your password."
+msgstr "Your password confirm must match with your password."
+
+#: Model/Table/UsersTable.php:130
+msgid "You must specify your new password."
+msgstr "You must specify your new password."
+
+#: Model/Table/UsersTable.php:141
+msgid "Your password confirm must match with your new password"
+msgstr "Your password confirm must match with your new password"
+
+#: Template/Cell/Record/add.ctp:4
+msgid "Create new medical record for {0}"
+msgstr "Create new medical record for {0}"
+
+#: Template/Cell/Record/edit.ctp:85
+msgid "Record attachments"
+msgstr "Record attachments"
+
+#: Template/Element/header.ctp:21
+msgid "Features"
+msgstr "Përmbajtja"
+
+#: Template/Element/header.ctp:25
+msgid "How it works"
+msgstr "Si Funksionon"
+
+#: Template/Element/header.ctp:26
+msgid "Online prescriptions"
+msgstr "Receta në Internet"
+
+#: Template/Element/header.ctp:27
+msgid "Sick notes"
+msgstr "Leter Mjekësore"
+
+#: Template/Element/header.ctp:28
+msgid "Lab work"
+msgstr "Punimet Laboratorike"
+
+#: Template/Element/header.ctp:35
+msgid "Our doctors"
+msgstr "Mjekët Tanë"
+
+#: Template/Element/header.ctp:40
+msgid "Pricing"
+msgstr "Çmimet"
+
+#: Template/Element/header.ctp:44
+msgid "Specialties"
+msgstr "Specialties"
+
+#: Template/Element/header.ctp:70
+msgid "Work with us"
+msgstr "Punoni me ne"
+
+#: Template/Element/header.ctp:84
+msgid "Sign in"
+msgstr "Hyni"
+
+#: Template/Element/header.ctp:85
+msgid "Register"
+msgstr "Regjistroheni"
+
+#: Template/Element/Flash/error.ctp:25
+#: Template/Element/Flash/fly_error.ctp:10
+#: Template/Element/Flash/fly_info.ctp:25
+#: Template/Element/Flash/fly_success.ctp:25
+#: Template/Element/Flash/fly_warning.ctp:25
+#: Template/Element/Flash/info.ctp:25
+#: Template/Element/Flash/success.ctp:25
+#: Template/Element/Flash/warning.ctp:25
+#: Template/Patient/Element/sidebar.ctp:48
+#: Template/Patient/Notifications/index.ctp:46
+#: Template/Practitioner/Element/submenu.ctp:5
+#: Template/Practitioner/Notifications/index.ctp:5
+msgid "Notifications"
+msgstr "Notifications"
+
+#: Template/Email/html/booking_complete.ctp:101
+msgid "Your receipt"
+msgstr "Your receipt"
+
+#: Template/Email/html/booking_complete.ctp:106
+#: Template/Email/html/connect_zoom.ctp:47
+msgid "Service"
+msgstr "Service"
+
+#: Template/Email/html/booking_complete.ctp:120
+#: Template/Email/html/connect_zoom.ctp:55
+msgid "When"
+msgstr "When"
+
+#: Template/Email/html/booking_complete.ctp:135
+#: Template/Email/html/connect_zoom.ctp:66
+msgid "Price"
+msgstr "Price"
+
+#: Template/Email/html/booking_complete.ctp:147
+#: Template/Email/html/connect_zoom.ctp:91
+#: Template/Patient/Appointments/booking.ctp:14
+#: Template/Roles/view.ctp:42;69
+msgid "Status"
+msgstr "Status"
+
+#: Template/Email/html/booking_complete.ctp:152
+#: Template/Email/html/connect_zoom.ctp:94
+msgid "Appointment Status"
+msgstr "Appointment Status"
+
+#: Template/Email/html/booking_complete.ctp:160
+#: Template/Email/html/connect_zoom.ctp:98
+msgid "Payment status"
+msgstr "Payment status"
+
+#: Template/Email/html/booking_complete.ctp:180
+#: Template/Email/html/connect_zoom.ctp:117
+msgid "Total"
+msgstr "Total"
+
+#: Template/Email/html/connect_zoom.ctp:6
+msgid "Scheduling Appointment Details"
+msgstr "Scheduling Appointment Details"
+
+#: Template/Email/html/connect_zoom.ctp:44
+msgid "Information"
+msgstr "Information"
+
+#: Template/Email/html/connect_zoom.ctp:70
+msgid "Meeting Id"
+msgstr "Meeting Id"
+
+#: Template/Email/html/connect_zoom.ctp:74
+msgid "Topic"
+msgstr "Topic"
+
+#: Template/Email/html/connect_zoom.ctp:78
+msgid "Join URL"
+msgstr "Join URL"
+
+#: Template/Email/html/connect_zoom.ctp:82
+msgid "Meeting Password"
+msgstr "Meeting Password"
+
+#: Template/Layout/error.ctp:43
+#: Template/Patient/Appointments/change.ctp:81
+#: Template/Patient/Appointments/meeting.ctp:51
+#: Template/Patient/Appointments/past_meeting_details.ctp:41
+#: Template/Patient/Appointments/view.ctp:126
+#: Template/Patient/Element/consults/confirm.ctp:63
+#: Template/Patient/Element/consults/details.ctp:62;123
+#: Template/Patient/Element/consults/location.ctp:15
+#: Template/Patient/Element/consults/patient.ctp:46
+#: Template/Patient/Element/consults/payment.ctp:152
+#: Template/Patient/Element/consults/practitioner.ctp:28
+#: Template/Patient/Element/consults/provider.ctp:55
+#: Template/Patient/Element/consults/review.ctp:79
+#: Template/Patient/Element/consults/service.ctp:35
+#: Template/Patient/Element/consults/slot.ctp:111;117;199
+#: Template/Patient/Element/consults/speciality.ctp:54
+#: Template/Patient/Element/consults/time.ctp:75
+#: Template/Patient/Layout/error.ctp:43
+#: Template/Practitioner/Appointments/meeting.ctp:51
+#: Template/Practitioner/Appointments/past_meeting_details.ctp:41
+#: Template/Practitioner/Element/consults/confirm.ctp:62
+#: Template/Practitioner/Element/consults/details.ctp:48
+#: Template/Practitioner/Element/consults/patient.ctp:27
+#: Template/Practitioner/Element/consults/practitioner.ctp:27
+#: Template/Practitioner/Element/consults/speciality.ctp:150
+#: Template/Practitioner/Element/consults/time.ctp:74
+#: Template/Practitioner/Layout/error.ctp:43
+msgid "Back"
+msgstr "Back"
+
+#: Template/Patient/Appointments/booking.ctp:9
+msgid "Your Appointment"
+msgstr "Your Appointment"
+
+#: Template/Patient/Appointments/booking.ctp:18
+msgid "Practitioner"
+msgstr "Practitioner"
+
+#: Template/Patient/Appointments/booking.ctp:21
+msgid "{0} {1} {2}"
+msgstr "{0} {1} {2}"
+
+#: Template/Patient/Appointments/booking.ctp:22
+msgid "Type: Online"
+msgstr "Type: Online"
+
+#: Template/Patient/Appointments/booking.ctp:29
+msgid "Payment: No Payment"
+msgstr "Payment: No Payment"
+
+#: Template/Patient/Appointments/booking.ctp:33
+msgid "Appointment"
+msgstr "Appointment"
+
+#: Template/Patient/Appointments/booking.ctp:45
+msgid "Ok"
+msgstr "Ok"
+
+#: Template/Patient/Appointments/booking.ctp:46
+msgid "Change Appointment"
+msgstr "Change Appointment"
+
+#: Template/Patient/Appointments/booking.ctp:47
+msgid "Cancel Appointment"
+msgstr "Cancel Appointment"
+
+#: Template/Patient/Appointments/change.ctp:9
+msgid "Pick a time"
+msgstr "Pick a time"
+
+#: Template/Patient/Appointments/change.ctp:82
+msgid "Change"
+msgstr "Change"
+
+#: Template/Patient/Appointments/practitioners.ctp:4
+msgid "Recent Practitioner"
+msgstr "Recent Practitioner"
+
+#: Template/Patient/Appointments/view.ctp:75
+#: Template/Practitioner/Appointments/view.ctp:73
+msgid "Past Meeting Details"
+msgstr "Past Meeting Details"
+
+#: Template/Patient/Appointments/view.ctp:79
+#: Template/Practitioner/Appointments/view.ctp:77
+msgid "View Meeting"
+msgstr "View Meeting"
+
+#: Template/Patient/Dashboards/index.ctp:8
+#: Template/Patient/Pages/index.ctp:5
+msgid "Recent History"
+msgstr "Recent History"
+
+#: Template/Patient/Dashboards/index.ctp:13
+#: Template/Patient/Pages/index.ctp:10
+msgid ""
+"Hi {0}, you haven't been prescribed any medication or received a doctor's note y"
+"et."
+msgstr ""
+"Hi {0}, you haven't been prescribed any medication or received a doctor's note y"
+"et."
+
+#: Template/Patient/Dashboards/index.ctp:14
+msgid "Get health Care"
+msgstr "Get health Care"
+
+#: Template/Patient/Element/sidebar.ctp:32
+#: Template/Practitioner/Element/sidebar.ctp:32
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: Template/Patient/Element/sidebar.ctp:38
+msgid "Medical Recrods"
+msgstr "Medical Recrods"
+
+#: Template/Patient/Element/sidebar.ctp:42
+msgid "Patient Profiles"
+msgstr "Patient Profiles"
+
+#: Template/Patient/Element/sidebar.ctp:56
+msgid "Get Health Care"
+msgstr "Get Health Care"
+
+#: Template/Patient/Element/sidebar.ctp:88
+#: Template/Practitioner/Element/sidebar.ctp:71
+msgid "Settings"
+msgstr "Settings"
+
+#: Template/Patient/Element/sidebar.ctp:94
+#: Template/Practitioner/Element/sidebar.ctp:77
+msgid "Sign Out"
+msgstr "Sign Out"
+
+#: Template/Patient/Element/submenu.ctp:3
+#: Template/Practitioner/Element/submenu.ctp:3
+msgid "Account"
+msgstr "Account"
+
+#: Template/Patient/Element/submenu.ctp:4
+#: Template/Practitioner/Element/submenu.ctp:4
+msgid "Security"
+msgstr "Security"
+
+#: Template/Patient/Element/submenu.ctp:8
+#: Template/Practitioner/Element/submenu.ctp:8
+msgid "Billing"
+msgstr "Billing"
+
+#: Template/Patient/Element/consults/checkout.ctp:29
+msgid "Pay now"
+msgstr "Pay now"
+
+#: Template/Patient/Element/consults/checkout.ctp:69
+msgid "Back to Dashboard"
+msgstr "Back to Dashboard"
+
+#: Template/Patient/Element/consults/confirm.ctp:20
+#: Template/Practitioner/Element/consults/confirm.ctp:20
+msgid "Manager Your Appointment"
+msgstr "Manager Your Appointment"
+
+#: Template/Patient/Element/consults/confirm.ctp:64
+#: Template/Practitioner/Element/consults/confirm.ctp:63
+msgid "Book An Appointment"
+msgstr "Book An Appointment"
+
+#: Template/Patient/Element/consults/details.ctp:63;124
+#: Template/Patient/Element/consults/locate.ctp:13
+#: Template/Patient/Element/consults/location.ctp:16
+#: Template/Patient/Element/consults/provider.ctp:56
+#: Template/Patient/Element/consults/review.ctp:80
+#: Template/Patient/Element/consults/service.ctp:36
+#: Template/Patient/Element/consults/slot.ctp:112;200
+#: Template/Patient/Element/consults/speciality.ctp:55
+#: Template/Practitioner/Element/consults/locate.ctp:12
+msgid "Continue"
+msgstr "Continue"
+
+#: Template/Patient/Element/consults/locate.ctp:4
+#: Template/Practitioner/Element/consults/locate.ctp:4
+msgid "We could not automatically locate you."
+msgstr "We could not automatically locate you."
+
+#: Template/Patient/Element/consults/locate.ctp:5
+#: Template/Practitioner/Element/consults/locate.ctp:5
+msgid ""
+"In order to match you with a doctor we require your location. You can manually s"
+"elect your location from the list below."
+msgstr ""
+"In order to match you with a doctor we require your location. You can manually s"
+"elect your location from the list below."
+
+#: Template/Patient/Element/consults/locate.ctp:6
+#: Template/Practitioner/Element/consults/locate.ctp:6
+msgid "Manually select your location."
+msgstr "Manually select your location."
+
+#: Template/Patient/Element/consults/locate.ctp:12
+#: Template/Practitioner/Element/consults/locate.ctp:11
+msgid "Back to dashboard"
+msgstr "Back to dashboard"
+
+#: Template/Patient/Element/consults/location.ctp:8
+msgid "Select your location"
+msgstr "Select your location"
+
+#: Template/Patient/Element/consults/location.ctp:9
+msgid "Where will you be at the time of your appointment?"
+msgstr "Where will you be at the time of your appointment?"
+
+#: Template/Patient/Element/consults/patient.ctp:3
+msgid "Approximate time to see the provider: 10 minutes"
+msgstr "Approximate time to see the provider: 10 minutes"
+
+#: Template/Patient/Element/consults/patient.ctp:7
+#: Template/Practitioner/Element/consults/patient.ctp:4
+msgid "Who is this visit for ?"
+msgstr "Who is this visit for ?"
+
+#: Template/Patient/Element/consults/patient.ctp:34
+#: Template/Patient/Patients/index.ctp:35
+#: Template/Practitioner/Element/consults/patient.ctp:16
+msgid "{0} Years Old {1}"
+msgstr "{0} Years Old {1}"
+
+#: Template/Patient/Element/consults/patient.ctp:47
+msgid "Continue to Speciality"
+msgstr "Continue to Speciality"
+
+#: Template/Patient/Element/consults/payment.ctp:95
+msgid "Previous"
+msgstr "Previous"
+
+#: Template/Patient/Element/consults/payment.ctp:96
+msgid "Confirm Appointment"
+msgstr "Confirm Appointment"
+
+#: Template/Patient/Element/consults/practitioner.ctp:3
+#: Template/Practitioner/Element/consults/practitioner.ctp:3
+msgid "Choose Your Practitioner"
+msgstr "Choose Your Practitioner"
+
+#: Template/Patient/Element/consults/practitioner.ctp:7
+#: Template/Practitioner/Element/consults/practitioner.ctp:7
+msgid "Search Practitioner"
+msgstr "Search Practitioner"
+
+#: Template/Patient/Element/consults/practitioner.ctp:29
+#: Template/Patient/Element/consults/time.ctp:76
+#: Template/Practitioner/Element/consults/details.ctp:49
+#: Template/Practitioner/Element/consults/patient.ctp:28
+#: Template/Practitioner/Element/consults/practitioner.ctp:28
+#: Template/Practitioner/Element/consults/speciality.ctp:151
+#: Template/Practitioner/Element/consults/time.ctp:75
+msgid "Next"
+msgstr "Next"
+
+#: Template/Patient/Element/consults/speciality.ctp:8
+msgid "What type of provider would you like to see?"
+msgstr "What type of provider would you like to see?"
+
+#: Template/Patient/Element/consults/speciality.ctp:67
+msgid "Online consultations available by appointment."
+msgstr "Online consultations available by appointment."
+
+#: Template/Patient/Element/consults/speciality.ctp:68
+msgid "When do you want to see a General Practitioner?"
+msgstr "When do you want to see a General Practitioner?"
+
+#: Template/Patient/Element/consults/speciality.ctp:76
+msgid "As soon as possible"
+msgstr "As soon as possible"
+
+#: Template/Patient/Element/consults/speciality.ctp:84
+msgid "Book appointment"
+msgstr "Book appointment"
+
+#: Template/Patient/Element/consults/speciality.ctp:89
+msgid "Cancel"
+msgstr "Cancel"
+
+#: Template/Patient/Notifications/index.ctp:71
+msgid "New"
+msgstr "New"
+
+#: Template/Patient/Notifications/index.ctp:104
+#: Template/Practitioner/Notifications/index.ctp:37
+msgid "You don't have any notification yet."
+msgstr "You don't have any notification yet."
+
+#: Template/Patient/Notifications/view.ctp:23
+#: Template/Practitioner/Notifications/view.ctp:20
+msgid "My Notifications"
+msgstr "My Notifications"
+
+#: Template/Patient/Notifications/view.ctp:31
+#: Template/Practitioner/Notifications/view.ctp:28
+msgid "Your symptoms"
+msgstr "Your symptoms"
+
+#: Template/Patient/Notifications/view.ctp:35
+#: Template/Practitioner/Notifications/view.ctp:32
+msgid "Location"
+msgstr "Location"
+
+#: Template/Patient/Notifications/view.ctp:39
+#: Template/Practitioner/Notifications/view.ctp:36
+msgid "Reason for appointment"
+msgstr "Reason for appointment"
+
+#: Template/Patient/Pages/index.ctp:11
+msgid "Get care"
+msgstr "Get care"
+
+#: Template/Patient/Patients/add.ctp:7
+msgid "Who would you like to add?"
+msgstr "Who would you like to add?"
+
+#: Template/Patient/Patients/add.ctp:88
+msgid "Add"
+msgstr "Add"
+
+#: Template/Patient/Patients/edit.ctp:85
+#: Template/Practitioner/Users/account.ctp:50
+#: Template/Practitioner/Users1/account.ctp:41
+msgid "Save"
+msgstr "Save"
+
+#: Template/Patient/Records/index.ctp:5
+msgid "Medical Records"
+msgstr "Medical Records"
+
+#: Template/Patient/Records/index.ctp:17
+msgid "Medical Conditions"
+msgstr "Medical Conditions"
+
+#: Template/Patient/Records/index.ctp:63
+msgid "Add patient"
+msgstr "Add patient"
+
+#: Template/Patient/Users/account.ctp:7
+#: Template/Practitioner/Users/account.ctp:7
+#: Template/Practitioner/Users1/account.ctp:7
+msgid "Your information"
+msgstr "Your information"
+
+#: Template/Patient/Users/account.ctp:50
+msgid "Update account"
+msgstr "Update account"
+
+#: Template/Patient/Users/forgot_password.ctp:18
+#: Template/Practitioner/Users/forgot_password.ctp:18
+msgid "You have forgot your password ?"
+msgstr "You have forgot your password ?"
+
+#: Template/Patient/Users/forgot_password.ctp:19
+#: Template/Practitioner/Users/forgot_password.ctp:19
+msgid "Use the form below to recover your password ! An E-mail will be send to you."
+msgstr "Use the form below to recover your password ! An E-mail will be send to you."
+
+#: Template/Patient/Users/forgot_password.ctp:33
+#: Template/Patient/Users/reset_password.ctp:46
+#: Template/Practitioner/Users/forgot_password.ctp:33
+#: Template/Practitioner/Users/reset_password.ctp:42
+msgid "Reset"
+msgstr "Reset"
+
+#: Template/Patient/Users/login.ctp:36
+#: Template/Practitioner/Users/login.ctp:36
+#: Template/Practitioner/Users1/login.ctp:36
+msgid "Sign In"
+msgstr "Hyni"
+
+#: Template/Patient/Users/login.ctp:38
+#: Template/Practitioner/Users/login.ctp:38
+msgid "Do not have an account? Sign Up"
+msgstr "Do not have an account? Sign Up"
+
+#: Template/Patient/Users/login.ctp:39
+#: Template/Practitioner/Users/login.ctp:39
+msgid "Forgot Password?"
+msgstr "Forgot Password?"
+
+#: Template/Patient/Users/login.ctp:40
+msgid "Login with Doctor"
+msgstr "Login with Doctor"
+
+#: Template/Patient/Users/register.ctp:158
+msgid "Create your account"
+msgstr "Create your account"
+
+#: Template/Patient/Users/reset_password.ctp:18
+#: Template/Practitioner/Users/reset_password.ctp:18
+msgid "Reset your Password"
+msgstr "Reset your Password"
+
+#: Template/Patient/Users/reset_password.ctp:19
+#: Template/Practitioner/Users/reset_password.ctp:19
+msgid "Use the form below to reset your password !"
+msgstr "Use the form below to reset your password !"
+
+#: Template/Patient/Users/security.ctp:13
+#: Template/Practitioner/Users/security.ctp:13
+#: Template/Practitioner/Users1/account.ctp:51
+#: Template/Roles/view.ctp:61
+msgid "Password"
+msgstr "Password"
+
+#: Template/Patient/Users/security.ctp:26
+#: Template/Practitioner/Users/security.ctp:25
+#: Template/Practitioner/Users1/account.ctp:63
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: Template/Patient/Users/security.ctp:34
+#: Template/Practitioner/Users/security.ctp:33
+#: Template/Practitioner/Users1/account.ctp:71
+msgid "Password (Confirmation)"
+msgstr "Password (Confirmation)"
+
+#: Template/Patient/Users/security.ctp:51
+#: Template/Practitioner/Users/security.ctp:49
+#: Template/Practitioner/Users1/account.ctp:87
+msgid "Change password"
+msgstr "Change password"
+
+#: Template/Practitioner/Appointments/add.ctp:3
+msgid "Add Appointment"
+msgstr "Add Appointment"
+
+#: Template/Practitioner/Appointments/add.ctp:14
+#: Template/Roles/add.ctp:27
+#: Template/Roles/edit.ctp:33
+#: Template/Default/Orders/add.ctp:24
+#: Template/Default/Orders/edit.ctp:30
+msgid "Submit"
+msgstr "Submit"
+
+#: Template/Practitioner/Appointments/callback.ctp:12
+msgid "Go to this appointment"
+msgstr "Go to this appointment"
+
+#: Template/Practitioner/Appointments/edit.ctp:55
+msgid "Update"
+msgstr "Update"
+
+#: Template/Practitioner/Appointments/view.ctp:67
+msgid "Create Meeting"
+msgstr "Create Meeting"
+
+#: Template/Practitioner/Appointments/view.ctp:80
+msgid "End Meeting"
+msgstr "End Meeting"
+
+#: Template/Practitioner/Element/sidebar.ctp:38
+msgid "Drop-in"
+msgstr "Drop-in"
+
+#: Template/Practitioner/Element/sidebar.ctp:47
+msgid "Schedule"
+msgstr "Schedule"
+
+#: Template/Practitioner/Element/sidebar.ctp:53
+msgid "Patients"
+msgstr "Patients"
+
+#: Template/Practitioner/Element/sidebar.ctp:62
+msgid "Stats"
+msgstr "Stats"
+
+#: Template/Practitioner/Element/submenu.ctp:6
+msgid "Languages"
+msgstr "Languages"
+
+#: Template/Practitioner/Element/submenu.ctp:7
+msgid "Credits"
+msgstr "Credits"
+
+#: Template/Practitioner/Element/submenu.ctp:9
+msgid "Integrations"
+msgstr "Integrations"
+
+#: Template/Practitioner/Patients/index.ctp:3
+msgid "List Patients"
+msgstr "List Patients"
+
+#: Template/Practitioner/Patients/index.ctp:30
+#: Template/Roles/index.ctp:43
+#: Template/Roles/view.ctp:116
+msgid "View"
+msgstr "View"
+
+#: Template/Practitioner/Users/register.ctp:87
+msgid "Create my account"
+msgstr "Create my account"
+
+#: Template/Practitioner/Users1/account.ctp:47
+msgid "Change your password"
+msgstr "Change your password"
+
+#: Template/Roles/add.ctp:9
+#: Template/Roles/edit.ctp:9
+#: Template/Roles/index.ctp:9;28
+#: Template/Roles/view.ctp:9;85
+#: Template/Default/Orders/add.ctp:9
+#: Template/Default/Orders/edit.ctp:9
+msgid "Actions"
+msgstr "Actions"
+
+#: Template/Roles/add.ctp:10
+#: Template/Roles/edit.ctp:16
+#: Template/Roles/view.ctp:12
+msgid "List Roles"
+msgstr "List Roles"
+
+#: Template/Roles/add.ctp:11
+#: Template/Roles/edit.ctp:17
+#: Template/Roles/index.ctp:11
+#: Template/Roles/view.ctp:14
+msgid "List Users"
+msgstr "List Users"
+
+#: Template/Roles/add.ctp:12
+#: Template/Roles/edit.ctp:18
+#: Template/Roles/index.ctp:12
+#: Template/Roles/view.ctp:15
+msgid "New User"
+msgstr "New User"
+
+#: Template/Roles/add.ctp:18
+msgid "Add Role"
+msgstr "Add Role"
+
+#: Template/Roles/edit.ctp:11
+#: Template/Roles/index.ctp:45
+#: Template/Roles/view.ctp:118
+#: Template/Default/Orders/edit.ctp:11
+msgid "Delete"
+msgstr "Delete"
+
+#: Template/Roles/edit.ctp:13
+#: Template/Roles/index.ctp:45
+#: Template/Roles/view.ctp:11;118
+#: Template/Default/Orders/edit.ctp:13
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Are you sure you want to delete # {0}?"
+
+#: Template/Roles/edit.ctp:24
+#: Template/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr "Edit Role"
+
+#: Template/Roles/index.ctp:10
+#: Template/Roles/view.ctp:13
+msgid "New Role"
+msgstr "New Role"
+
+#: Template/Roles/index.ctp:16
+msgid "Roles"
+msgstr "Roles"
+
+#: Template/Roles/index.ctp:44
+#: Template/Roles/view.ctp:117
+msgid "Edit"
+msgstr "Edit"
+
+#: Template/Roles/index.ctp:53
+msgid "first"
+msgstr "first"
+
+#: Template/Roles/index.ctp:54
+msgid "previous"
+msgstr "previous"
+
+#: Template/Roles/index.ctp:56
+msgid "next"
+msgstr "next"
+
+#: Template/Roles/index.ctp:57
+msgid "last"
+msgstr "last"
+
+#: Template/Roles/index.ctp:59
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+
+#: Template/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr "Delete Role"
+
+#: Template/Roles/view.ctp:22
+msgid "Name"
+msgstr "Name"
+
+#: Template/Roles/view.ctp:26
+msgid "Alias"
+msgstr "Alias"
+
+#: Template/Roles/view.ctp:30
+msgid "Color"
+msgstr "Color"
+
+#: Template/Roles/view.ctp:34
+#: Template/Default/Personals/view.ctp:49
+msgid "Description"
+msgstr "Description"
+
+#: Template/Roles/view.ctp:38;59
+msgid "Id"
+msgstr "Id"
+
+#: Template/Roles/view.ctp:46;83
+msgid "Created"
+msgstr "Created"
+
+#: Template/Roles/view.ctp:50;84
+msgid "Modified"
+msgstr "Modified"
+
+#: Template/Roles/view.ctp:55
+msgid "Related Users"
+msgstr "Related Users"
+
+#: Template/Roles/view.ctp:60
+msgid "Email"
+msgstr "Email"
+
+#: Template/Roles/view.ctp:62
+msgid "Role Id"
+msgstr "Role Id"
+
+#: Template/Roles/view.ctp:63
+msgid "Gender"
+msgstr "Gender"
+
+#: Template/Roles/view.ctp:64
+msgid "First Name"
+msgstr "First Name"
+
+#: Template/Roles/view.ctp:65
+msgid "Last Name"
+msgstr "Last Name"
+
+#: Template/Roles/view.ctp:66
+msgid "Birthday"
+msgstr "Birthday"
+
+#: Template/Roles/view.ctp:67
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: Template/Roles/view.ctp:68
+msgid "Image"
+msgstr "Image"
+
+#: Template/Roles/view.ctp:70
+msgid "Active"
+msgstr "Active"
+
+#: Template/Roles/view.ctp:71
+msgid "System"
+msgstr "System"
+
+#: Template/Roles/view.ctp:72
+msgid "Company"
+msgstr "Kompania"
+
+#: Template/Roles/view.ctp:73
+#: Template/Default/Personals/view.ctp:31
+msgid "Address"
+msgstr "Address"
+
+#: Template/Roles/view.ctp:74
+msgid "City"
+msgstr "City"
+
+#: Template/Roles/view.ctp:75
+msgid "State"
+msgstr "State"
+
+#: Template/Roles/view.ctp:76
+msgid "Zip Code"
+msgstr "Zip Code"
+
+#: Template/Roles/view.ctp:77
+msgid "Country Id"
+msgstr "Country Id"
+
+#: Template/Roles/view.ctp:78
+msgid "Note"
+msgstr "Note"
+
+#: Template/Roles/view.ctp:79
+msgid "Fbid"
+msgstr "Fbid"
+
+#: Template/Roles/view.ctp:80
+msgid "Ggid"
+msgstr "Ggid"
+
+#: Template/Roles/view.ctp:81
+msgid "Last Visit"
+msgstr "Last Visit"
+
+#: Template/Roles/view.ctp:82
+msgid "Has Read"
+msgstr "Has Read"
+
+#: Controller/AppController.php:545
+msgid "Email sent success"
+msgstr "Email sent success"
+
+#: Controller/AppController.php:547
+msgid "Email sent error"
+msgstr "Email sent error"
+
+#: Controller/CareersController.php:29
+msgid "The career has been deleted."
+msgstr "The career has been deleted."
+
+#: Controller/CareersController.php:31
+msgid "The career could not be deleted. Please, try again."
+msgstr "The career could not be deleted. Please, try again."
+
+#: Controller/ContactsController.php:61
+msgid "The contact has been deleted."
+msgstr "The contact has been deleted."
+
+#: Controller/ContactsController.php:63
+msgid "The contact could not be deleted. Please, try again."
+msgstr "The contact could not be deleted. Please, try again."
+
+#: Controller/NewslettersController.php:60
+msgid "The newsletter has been deleted."
+msgstr "The newsletter has been deleted."
+
+#: Controller/NewslettersController.php:62
+msgid "The newsletter could not be deleted. Please, try again."
+msgstr "The newsletter could not be deleted. Please, try again."
+
+#: Controller/OrdersController.php:144
+msgid "The order has been deleted."
+msgstr "The order has been deleted."
+
+#: Controller/OrdersController.php:146
+msgid "The order could not be deleted. Please, try again."
+msgstr "The order could not be deleted. Please, try again."
+
+#: Controller/PackagesController.php:57;81
+msgid "The package has been saved."
+msgstr "The package has been saved."
+
+#: Controller/PackagesController.php:61;85
+msgid "The package could not be saved. Please, try again."
+msgstr "The package could not be saved. Please, try again."
+
+#: Controller/PackagesController.php:102
+msgid "The package has been deleted."
+msgstr "The package has been deleted."
+
+#: Controller/PackagesController.php:104
+msgid "The package could not be deleted. Please, try again."
+msgstr "The package could not be deleted. Please, try again."
+
+#: Controller/PersonalsController.php:52;125
+msgid "The personal has been saved."
+msgstr "The personal has been saved."
+
+#: Controller/PersonalsController.php:56;129
+msgid "The personal could not be saved. Please, try again."
+msgstr "The personal could not be saved. Please, try again."
+
+#: Controller/PersonalsController.php:162
+msgid "The personal has been deleted."
+msgstr "The personal has been deleted."
+
+#: Controller/PersonalsController.php:164
+msgid "The personal could not be deleted. Please, try again."
+msgstr "The personal could not be deleted. Please, try again."
+
+#: Controller/PharmacysController.php:63
+msgid "The pharmacy has been deleted."
+msgstr "The pharmacy has been deleted."
+
+#: Controller/PharmacysController.php:65
+msgid "The pharmacy could not be deleted. Please, try again."
+msgstr "The pharmacy could not be deleted. Please, try again."
+
+#: Controller/PracticeHoursController.php:58;87
+msgid "The practice_hour has been saved."
+msgstr "The practice_hour has been saved."
+
+#: Controller/PracticeHoursController.php:62;91
+msgid "The practice_hour could not be saved. Please, try again."
+msgstr "The practice_hour could not be saved. Please, try again."
+
+#: Controller/PracticeHoursController.php:110
+msgid "The practice_hour has been deleted."
+msgstr "The practice_hour has been deleted."
+
+#: Controller/PracticeHoursController.php:112
+msgid "The practice_hour could not be deleted. Please, try again."
+msgstr "The practice_hour could not be deleted. Please, try again."
+
+#: Controller/ProductsController.php:642
+msgid "Number of data success"
+msgstr "Number of data success"
+
+#: Controller/ProductsController.php:642
+msgid "Number of data error"
+msgstr "Number of data error"
+
+#: Controller/UsersController.php:727
+msgid "Your account has been logout successed !"
+msgstr "Your account has been logout successed !"
+
+#: Controller/UsersController.php:766;866
+msgid "Success !"
+msgstr "Success !"
+
+#: Controller/UsersController.php:799;899
+msgid "The user could not be saved. Please, try again."
+msgstr "The user could not be saved. Please, try again."
+
+#: Template/Default/Orders/add.ctp:10
+msgid "List Contacts"
+msgstr "List Contacts"
+
+#: Template/Default/Orders/add.ctp:16
+msgid "Add Contact"
+msgstr "Add Contact"
+
+#: Template/Default/Orders/edit.ctp:16
+msgid "List Contact"
+msgstr "List Contact"
+
+#: Template/Default/Orders/edit.ctp:22
+msgid "Edit Contact"
+msgstr "Edit Contact"
+
+#: Template/Default/Pages/dashboard.ctp:822
+msgid "Contacts"
+msgstr "Contacts"
+
+#: Template/Default/Personals/add.ctp:19
+#: Template/Default/Personals/edit.ctp:21
+msgid "Title"
+msgstr "Title"
+
+#: Template/Default/Personals/add.ctp:22
+#: Template/Default/Personals/edit.ctp:24
+msgid "Full Name"
+msgstr "Full Name"
+
+#: Template/Default/Personals/add.ctp:25
+#: Template/Default/Personals/edit.ctp:27
+msgid "Surname"
+msgstr "Surname"
+
+#: Template/Default/Personals/view.ctp:19
+msgid "Practice Name"
+msgstr "Practice Name"
+
+#: Template/Default/Personals/view.ctp:25
+msgid "Tax ID"
+msgstr "Tax ID"
+
+#: Template/Default/Personals/view.ctp:37
+msgid "Website"
+msgstr "Website"
+
+#: Template/Default/Personals/view.ctp:43
+msgid "Phone Numbers"
+msgstr "Phone Numbers"
+
+#: Template/Default/Personals/view.ctp:55
+msgid "Logo"
+msgstr "Logo"
+
+#: Template/Default/Personals/view.ctp:67
+msgid "{0}-{1}"
+msgstr "{0}-{1}"
+
+#: Template/Default/Personals/view.ctp:74
+msgid "Form {0} until {1}"
+msgstr "Form {0} until {1}"
+
+#: Template/Default/PracticeHours/add.ctp:102;150
+#: Template/Default/PracticeHours/edit.ctp:101;149
+msgid "Sunday"
+msgstr "Sunday"
+
+#: Template/Default/PracticeHours/add.ctp:103;151
+#: Template/Default/PracticeHours/edit.ctp:102;150
+msgid "Monday"
+msgstr "Monday"
+
+#: Template/Default/PracticeHours/add.ctp:104;152
+#: Template/Default/PracticeHours/edit.ctp:103;151
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: Template/Default/PracticeHours/add.ctp:105;153
+#: Template/Default/PracticeHours/edit.ctp:104;152
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: Template/Default/PracticeHours/add.ctp:106;154
+#: Template/Default/PracticeHours/edit.ctp:105;153
+msgid "Thursday"
+msgstr "Thursday"
+
+#: Template/Default/PracticeHours/add.ctp:107;155
+#: Template/Default/PracticeHours/edit.ctp:106;154
+msgid "Friday"
+msgstr "Friday"
+
+#: Template/Default/PracticeHours/add.ctp:108;156
+#: Template/Default/PracticeHours/edit.ctp:107;155
+#: Template/Element/header.ctp:44
+msgid "Saturday"
+msgstr "Saturday"
+
+#: Template/Pages/home.ctp:25
+msgid "Specialities"
+msgstr "Specialitetet"
+
+msgid "Enter your email address"
+msgstr "Shkruani adresën tuaj të emailit"
+
+#: Template/Pages/home.ctp:29
+msgid "Get Started"
+msgstr "Filloni"
+
+#: Template/Pages/home.ctp:56
+msgid "Meet our doctor"
+msgstr "Disa nga mjekët"
+
+#: Template/Pages/home.ctp:74;85
+msgid "View More"
+msgstr "Shiko më Shumë"
+
+#: Template/Pages/home.ctp:221
+#: Template/Pages/home.ctp:263
+msgid "Read more"
+msgstr "Lexo më Shumë"
+
+#: Controller/Practitioner/PersonalsController.php:27
+msgid "Pricing options"
+msgstr "Paketa e çmimeve"
+
+msgid "Error !"
+msgstr "Error !"
+
+#: Template/Element/footer.ctp:29
+msgid "About us"
+msgstr "Rreth Nesh"
+
+#: Template/Element/footer.ctp:30
+msgid "Our Doctors"
+msgstr "Mjekët Tanë"
+
+#: Template/Element/footer.ctp:32
+msgid "Career"
+msgstr "Karriera"
+
+#: Template/Element/footer.ctp:33
+msgid "Term And Conditions"
+msgstr "Termat dhe Kushtet"
+
+#: Template/Element/footer.ctp:34
+msgid "Privacy Policy"
+msgstr "Politika e Privatësisë"
+
+#: Template/Element/footer.ctp:51
+msgid "Dermatology"
+msgstr "Dermatologji"
+
+#: Template/Element/footer.ctp:52
+msgid "Mole Mapping"
+msgstr "Mole Mapping"
+
+#: Template/Element/footer.ctp:53
+msgid "Mental Health Physician"
+msgstr "Mental Health Physician"
+
+#: Template/Element/footer.ctp:54
+msgid "Psychotherapy"
+msgstr "Psychotherapy"
+
+#: Template/Element/footer.ctp:55
+msgid "See all"
+msgstr "Shih tegjitha"
+
+#: Template/Element/footer.ctp:61
+msgid "Learn more"
+msgstr "Mësoni më Shumë"
+
+#: Template/Element/footer.ctp:62
+msgid "Employers"
+msgstr "Punëdhënësit"
+
+#: Template/Element/footer.ctp:63
+msgid "Insurers"
+msgstr "Composite Sigurimi "
+
+#: Template/Element/footer.ctp:64
+msgid "Hospital"
+msgstr "Spitalet"
+
+#: Template/Practitioner/Personals/index.ctp:47
+msgid "Save Regular Hours"
+msgstr "Save Regular Hours"
+
+#: Template/Practitioner/Users/account.ctp:52
+#: Template/Element/header.ctp:51
+msgid "Edit Personal"
+msgstr "Edit Personal"
+
+msgid "Endocrinology"
+msgstr "Endokrinologji"
+
+#: Template/Element/header.ctp:52
+msgid "Paediatrics"
+msgstr "Paediatrics"
+
+#: Template/Element/header.ctp:53
+msgid "Psychiatry"
+msgstr "Psychiatry"
+
+#: Template/Element/header.ctp:54
+msgid "Respirology"
+msgstr "Respirology"
+
+#: Template/Element/header.ctp:55
+msgid "General health assessment"
+msgstr "General health assessment"
+
+#: Template/Element/header.ctp:56
+msgid "Sleep therapy"
+msgstr "Sleep therapy"
+
+#: Template/Element/header.ctp:57
+msgid "Diabetes counselling"
+msgstr "Diabetes counselling"
+
+#: Template/Element/header.ctp:58
+msgid "Oncology"
+msgstr "Oncology"
+
+#: Template/Element/header.ctp:59
+msgid "Cardiology"
+msgstr "Kardiologji"
+
+#: Template/Element/header.ctp:60
+msgid "Blood pressure"
+msgstr "Blood pressure"
+
+#: Template/Element/header.ctp:61
+msgid "Naturopathy"
+msgstr "Naturopathy"
+
+#: Template/Element/header.ctp:62
+msgid "Allergy & Immunology"
+msgstr "Allergy & Immunology"
+
+#: Template/Element/header.ctp:63
+msgid "Functional Medicine"
+msgstr "Functional Medicine"
+
+#: Template/Pages/our_doctor.ctp:139
+msgid "Join our team"
+msgstr "Join our team"
+
+#: Template/Practitioner/Users/account.ctp:54
+msgid "Edit Schedule"
+msgstr "Edit Schedule"
+
+#: Template/Element/header.ctp:48
+msgid "Pediatric"
+msgstr "Pediatri"
+
+#: Template/Element/header.ctp:49
+msgid "Neurology"
+msgstr "Neurology"
+
+#: Template/Element/header.ctp:50
+msgid "Neuropediatrics"
+msgstr "Neuropediatri"
+
+#: Template/Element/header.ctp:51
+msgid "Psychiatric"
+msgstr "Psikiatri"
+
+#: Template/Element/header.ctp:54
+msgid "Pediatric Cardiologists"
+msgstr "Kardiopediatri"
+
+#: Template/Element/header.ctp:55
+msgid "Pulmonary"
+msgstr "Pneumologji"
+
+#: Template/Element/header.ctp:56
+msgid "Surgery"
+msgstr "Kirurgji"
+
+#: Template/Element/header.ctp:57
+msgid "GI"
+msgstr "Gastrohepatologji"
+
+#: Template/Element/header.ctp:58
+msgid "Rheumatology"
+msgstr "Reumatologji"
+
+#: Template/Element/header.ctp:59
+msgid "Allergist"
+msgstr "Alergologji"
+
+#: Template/Element/header.ctp:61
+msgid "OB/GYN"
+msgstr "Gjinokologji"
