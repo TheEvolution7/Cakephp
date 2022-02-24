@@ -1,0 +1,71 @@
+.map-section
+    ackground: #efefef
+    padding: 80px 0
+    svg 
+        width: 100%
+        overflow: unset
+    .section-title__tagline
+        color: var(--qutiiz-base)
+    .section-title__title
+        color: #fff
+    .box-svg
+        .hover-country
+            cursor: pointer
+            transition: all .3s ease
+            // pointer-events: visiblePainted
+            *
+                transition: all .1s ease
+            
+            path 
+                stroke: #fff
+            text,.st160 
+                opacity: 0
+                visibility: hidden
+                stroke: #000!important
+            .st160,.st161
+                stroke: #000!important
+                fill: #C1B081!important
+                path 
+                    stroke-width: 0px
+                    stroke: #fff!important
+                    fill: #04000b!important
+            line    
+                opacity: 0
+                visibility: hidden
+                stroke-width: 1px
+                fill: #313131
+                stroke: #313131
+            // @media screen and ( max-width: 767.82px )
+            //     path 
+            //         fill: url(#hover-bg)
+            //         transition: all .3s ease
+            //     text,.st160 
+            //         transition: all .3s ease
+            //         opacity: 1
+            //         visibility: visible
+            //     line    
+            //         transition: all .7s ease
+            //         opacity: 1
+            //         visibility: visible
+                
+            &:hover 
+                path 
+                    fill: url(#hover-bg)
+                    transition: all .3s ease
+                text,.st160 
+                    fill: #C1B081!important
+                    transition: all .3s ease
+                    opacity: 1
+                    visibility: visible
+                line    
+                    transition: all .7s ease
+                    opacity: 1
+                    visibility: visible
+.stricky-fixed
+    .main-menu-wrapper__logo
+        img 
+            max-width: 100px
+    .main-menu__list 
+        > li
+            padding-top: 15px
+            padding-bottom: 15px
