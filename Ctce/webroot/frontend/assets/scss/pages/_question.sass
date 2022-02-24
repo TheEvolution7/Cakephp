@@ -1,0 +1,173 @@
+.question
+  position: relative
+  width: 100%
+  margin-bottom: 20px
+  border-radius: 0.5rem
+  padding: 20px 10px 
+  border-left: 4px solid $apple
+  transition: box-shadow 250ms cubic-bezier(.95,.15,.5,1.25)
+  counter-increment: questions
+  -webkit-user-select: none
+  -moz-user-select: none
+  -ms-user-select: none
+  user-select: none
+  &:hover
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px
+  &.true
+    border-left-color: #10B981
+    background-color: #D1FAE5
+    &::before
+      content: '\f058'
+      position: absolute
+      top: 50%
+      right: 15px
+      transform: translateY(-50%)
+      font-family: "Font Awesome 5 Pro"
+      color: #10B981
+      font-size: 30px
+
+  &.false
+    border-left-color: $danger
+    background-color: #FEE2E2
+    &::before
+      content: '\f057'
+      position: absolute
+      top: 50%
+      right: 15px
+      transform: translateY(-50%)
+      font-family: "Font Awesome 5 Pro"
+      color: $danger
+      font-size: 30px
+
+  &:before
+    content: counter(questions)
+    color: #6B7280
+    font-size: 20px
+
+  &:nth-child(odd)
+    background: #f5f7fa
+  &:nth-child(even)
+    background: #f8f8f8
+
+  .title
+    display: inline
+    color: #111827
+    font-size: 20px
+    margin: 0 0 1rem 0
+    font-weight: 500
+
+  .answer
+    padding: 1rem
+    display: flex
+    justify-content: space-between
+    &.answer-2
+      padding: 1rem 2.5rem 1rem 1rem
+
+  label
+    display: flex
+    justify-content: center
+    align-items: center
+    cursor: pointer
+    position: relative
+    border-radius: 50%
+    // background-color: $white
+    &:hover, &:focus-within
+      // background: $white
+
+  .question-input
+    width: 1.3rem
+    height: 1.3rem
+    border-radius: 50rem
+    appearance: none
+    padding: 0
+    margin: 0
+    pointer-events: none
+    transition: box-shadow 250ms cubic-bezier(.95,.15,.5,1.25)
+    box-shadow: inset 0 0 0 0.1rem #D1D5DB
+    &:checked
+      box-shadow: inset 0 0 0 0.4rem $apple
+
+    &.true
+      box-shadow: inset 0 0 0 0.1rem #10B981
+      &:checked
+        box-shadow: inset 0 0 0 0.4rem #10B981
+
+    &.false
+      box-shadow: inset 0 0 0 0.1rem $danger
+      &:checked
+        box-shadow: inset 0 0 0 0.4rem $danger
+
+    &.empty
+      box-shadow: inset 0 0 0 0.1rem #D1D5DB
+      &:checked
+        box-shadow: inset 0 0 0 0.4rem #D1D5DB
+
+  .span
+    padding: 0 0.5rem
+
+
+
+.result
+  margin: 0 auto
+  .progress
+    position: relative
+    width: 100%
+    height: 30px
+    display: block
+    background: #f5f5f5
+    border-radius: 10px
+    margin-bottom: 4rem
+    .progress-fill
+      width: 0
+      height: 100%
+      font-size: 15px
+      line-height: 30px
+      color: #fff
+      text-align: center
+      background-color: $primary
+      transition: width .6s ease
+    .progressRate
+      width: 75%
+      height: 25px
+      border-right: 2px solid red
+      position: relative
+      top: -28px
+      left: 0
+  .box-result
+    display: flex
+    justify-content: space-between
+    align-items: center
+    margin-bottom: 4rem
+    border-radius: 0.5rem
+
+  h3
+    font-weight: normal
+
+  .green
+    color: #10B981
+
+  .red
+    color: $danger
+
+  // progress
+  //   width: 100%
+  //   border: 0
+  //   &.success::-moz-progress-bar, &.success::-webkit-progress-bar
+  //     background: #10B981
+
+  //   &.fail::-moz-progress-bar, &.fail::-webkit-progress-bar
+  //     background: $danger
+
+// .progressRate
+//   width: 75%
+//   height: 12px
+//   border-right: 2px solid #111827
+//   position: relative
+//   top: -23px
+//   left: 0
+//   &:before
+//     content: "75%"
+//     position: absolute
+//     bottom: -250%
+//     right: -18px
+//     color: #4B5563

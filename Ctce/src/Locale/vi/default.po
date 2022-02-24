@@ -1,0 +1,1134 @@
+#: Controller/AppController.php:93
+msgid "Did you really think you are allowed to do that?"
+msgstr "Did you really think you are allowed to do that?"
+
+#: Controller/ArticlesController.php:141
+msgid "Sent success"
+msgstr "Sent success"
+
+#: Controller/ArticlesController.php:145
+msgid "Sent error"
+msgstr "Sent error"
+
+#: Controller/PagesController.php:29
+msgid "Home"
+msgstr "Home"
+
+#: Controller/PagesController.php:43;47
+msgid "Notification"
+msgstr "Notification"
+
+#: Controller/PagesController.php:43
+msgid "The newsletter has been saved."
+msgstr "The newsletter has been saved."
+
+#: Controller/PagesController.php:47
+msgid "The newsletter could not be saved. Please, try again."
+msgstr "The newsletter could not be saved. Please, try again."
+
+#: Controller/RolesController.php:55;79
+msgid "The role has been saved."
+msgstr "The role has been saved."
+
+#: Controller/RolesController.php:59;83
+msgid "The role could not be saved. Please, try again."
+msgstr "The role could not be saved. Please, try again."
+
+#: Controller/RolesController.php:100
+msgid "The role has been deleted."
+msgstr "The role has been deleted."
+
+#: Controller/RolesController.php:102
+msgid "The role could not be deleted. Please, try again."
+msgstr "The role could not be deleted. Please, try again."
+
+#: Controller/UsersController.php:34
+msgid "Download"
+msgstr "Download"
+
+#: Controller/UsersController.php:51;79;200
+msgid "The user has been saved."
+msgstr "The user has been saved."
+
+#: Controller/UsersController.php:55;83
+msgid "The user could not be saved. Please, try again."
+msgstr "The user could not be saved. Please, try again."
+
+#: Controller/UsersController.php:107
+msgid "Login success"
+msgstr "Login success"
+
+#: Controller/UsersController.php:110
+msgid "Your username or password was incorrect."
+msgstr "Your username or password was incorrect."
+
+#: Controller/UsersController.php:149;186
+msgid "Your account must email or phone."
+msgstr "Your account must email or phone."
+
+#: Controller/UsersController.php:161
+msgid "Login success."
+msgstr "Login success."
+
+#: Controller/UsersController.php:164
+msgid "Your username or password is incorrect."
+msgstr "Your username or password is incorrect."
+
+#: Controller/UsersController.php:229
+msgid "Good-Bye, See you later."
+msgstr "Good-Bye, See you later."
+
+#: Template/Articles/booking.ctp:19
+msgid "Phone"
+msgstr "Phone"
+
+#: Template/Articles/booking.ctp:23
+#: Template/Roles/view.ctp:22
+#: Template/Default/Contacts/view.ctp:24
+#: Template/Default/Newsletters/view.ctp:24
+msgid "Name"
+msgstr "Name"
+
+#: Template/Articles/booking.ctp:27
+msgid "Which service would you like to\n                                    book?"
+msgstr "Which service would you like to\n                                    book?"
+
+#: Template/Articles/booking.ctp:38
+msgid "Appointment"
+msgstr "Appointment"
+
+#: Template/Articles/booking.ctp:42
+msgid "Book Now"
+msgstr "Book Now"
+
+#: Template/Articles/events.ctp:16
+#: Template/Articles/service.ctp:41
+#: Template/Pages/home.ctp:46;102;136
+#: Template/Products/index.ctp:47
+msgid "Read More"
+msgstr "Read More"
+
+#: Template/Articles/packages.ctp:5
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Back"
+
+#: Template/Articles/packages.ctp:10
+msgid "OUR LATEST PACKAGES"
+msgstr "OUR LATEST PACKAGES"
+
+#: Template/Articles/packages.ctp:14
+#: Template/Products/category.ctp:6;17
+msgid "ALL"
+msgstr "ALL"
+
+#: Template/Articles/packages.ctp:39
+msgid "read more"
+msgstr "read more"
+
+#: Template/Articles/packages.ctp:49
+msgid "Prev"
+msgstr "Prev"
+
+#: Template/Articles/packages.ctp:51
+msgid "Next"
+msgstr "Next"
+
+#: Template/Element/footer.ctp:13
+msgid "SIGN IN YOUR ACCOUNT"
+msgstr "SIGN IN YOUR ACCOUNT"
+
+#: Template/Element/footer.ctp:14
+msgid ""
+"Please enter your email and password to access your account and shopping prefere"
+"nces."
+msgstr ""
+"Please enter your email and password to access your account and shopping prefere"
+"nces."
+
+#: Template/Element/footer.ctp:18;77
+msgid "EMAIL/PHONE"
+msgstr "EMAIL/PHONE"
+
+#: Template/Element/footer.ctp:22;85
+msgid "PASSWORD"
+msgstr "PASSWORD"
+
+#: Template/Element/footer.ctp:35
+msgid "LOGIN"
+msgstr "LOGIN"
+
+#: Template/Element/footer.ctp:47
+msgid "REGISTER NOW"
+msgstr "REGISTER NOW"
+
+#: Template/Element/footer.ctp:48
+msgid "Create an account to enjoy a personalized shopping experience"
+msgstr "Create an account to enjoy a personalized shopping experience"
+
+#: Template/Element/footer.ctp:52
+msgid "Receive Fendi Newsletters"
+msgstr "Receive Fendi Newsletters"
+
+#: Template/Element/footer.ctp:55
+msgid "Create a Wish List"
+msgstr "Create a Wish List"
+
+#: Template/Element/footer.ctp:58
+msgid "Speed up checkout"
+msgstr "Speed up checkout"
+
+#: Template/Element/footer.ctp:61
+msgid "Follow orders and returns"
+msgstr "Follow orders and returns"
+
+#: Template/Element/footer.ctp:67
+msgid "FIRST NAME"
+msgstr "FIRST NAME"
+
+#: Template/Element/footer.ctp:71
+msgid "LAST NAME"
+msgstr "LAST NAME"
+
+#: Template/Element/footer.ctp:81
+msgid "ADDRESS"
+msgstr "ADDRESS"
+
+#: Template/Element/footer.ctp:89
+msgid "CONFIRM PASSWORD"
+msgstr "CONFIRM PASSWORD"
+
+#: Template/Element/footer.ctp:92
+msgid ""
+"Black Pearl will not share your details for third party\n                       "
+"             marketing purposes. For more information please see our FAQs <a hre"
+"f=\"#\">here</a> and our\n                                    Privacy Policy"
+msgstr ""
+"Black Pearl will not share your details for third party\n                       "
+"             marketing purposes. For more information please see our FAQs <a hre"
+"f=\"#\">here</a> and our\n                                    Privacy Policy"
+
+#: Template/Element/footer.ctp:94
+msgid "here"
+msgstr "here"
+
+#: Template/Element/footer.ctp:97
+msgid "REGISTER"
+msgstr "REGISTER"
+
+#: Template/Element/header.ctp:52;77
+msgid "PRODUCT LINES"
+msgstr "PRODUCT LINES"
+
+#: Template/Element/header.ctp:54;79
+msgid "SERVICE"
+msgstr "SERVICE"
+
+#: Template/Element/header.ctp:56;78
+msgid "EVENT"
+msgstr "EVENT"
+
+#: Template/Element/header.ctp:63
+msgid "Logout"
+msgstr "Logout"
+
+#: Template/Element/header.ctp:65;96
+msgid "Login"
+msgstr "Login"
+
+#: Template/Element/Flash/fly_error.ctp:10
+#: Template/Element/Flash/fly_info.ctp:25
+#: Template/Element/Flash/fly_success.ctp:25
+#: Template/Element/Flash/fly_warning.ctp:25
+msgid "Notifications"
+msgstr "Notifications"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Error"
+
+#: Template/Products/details.ctp:28
+msgid "BUY NOW"
+msgstr "BUY NOW"
+
+#: Template/Products/details.ctp:42
+msgid "PRODUCT OVERVIEW"
+msgstr "PRODUCT OVERVIEW"
+
+#: Template/Roles/add.ctp:9
+#: Template/Roles/edit.ctp:9
+#: Template/Roles/index.ctp:9;28
+#: Template/Roles/view.ctp:9;85
+#: Template/Default/Contacts/add.ctp:9
+#: Template/Default/Contacts/edit.ctp:9
+#: Template/Default/Contacts/view.ctp:9
+#: Template/Default/MailCategories/view.ctp:9;74
+#: Template/Default/Newsletters/add.ctp:9
+#: Template/Default/Newsletters/edit.ctp:9
+#: Template/Default/Newsletters/view.ctp:9
+msgid "Actions"
+msgstr "Actions"
+
+#: Template/Roles/add.ctp:10
+#: Template/Roles/edit.ctp:16
+#: Template/Roles/view.ctp:12
+msgid "List Roles"
+msgstr "List Roles"
+
+#: Template/Roles/add.ctp:11
+#: Template/Roles/edit.ctp:17
+#: Template/Roles/index.ctp:11
+#: Template/Roles/view.ctp:14
+msgid "List Users"
+msgstr "List Users"
+
+#: Template/Roles/add.ctp:12
+#: Template/Roles/edit.ctp:18
+#: Template/Roles/index.ctp:12
+#: Template/Roles/view.ctp:15
+msgid "New User"
+msgstr "New User"
+
+#: Template/Roles/add.ctp:18
+msgid "Add Role"
+msgstr "Add Role"
+
+#: Template/Roles/add.ctp:27
+#: Template/Roles/edit.ctp:33
+#: Template/Default/Contacts/add.ctp:24
+#: Template/Default/Contacts/edit.ctp:30
+#: Template/Default/Newsletters/add.ctp:24
+#: Template/Default/Newsletters/edit.ctp:30
+msgid "Submit"
+msgstr "Submit"
+
+#: Template/Roles/edit.ctp:11
+#: Template/Roles/index.ctp:45
+#: Template/Roles/view.ctp:118
+#: Template/Default/Contacts/edit.ctp:11
+#: Template/Default/MailCategories/view.ctp:90
+#: Template/Default/Newsletters/edit.ctp:11
+msgid "Delete"
+msgstr "Delete"
+
+#: Template/Roles/edit.ctp:13
+#: Template/Roles/index.ctp:45
+#: Template/Roles/view.ctp:11;118
+#: Template/Default/Contacts/edit.ctp:13
+#: Template/Default/Contacts/view.ctp:11
+#: Template/Default/MailCategories/view.ctp:11;90
+#: Template/Default/Newsletters/edit.ctp:13
+#: Template/Default/Newsletters/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Are you sure you want to delete # {0}?"
+
+#: Template/Roles/edit.ctp:24
+#: Template/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr "Edit Role"
+
+#: Template/Roles/index.ctp:10
+#: Template/Roles/view.ctp:13
+msgid "New Role"
+msgstr "New Role"
+
+#: Template/Roles/index.ctp:16
+msgid "Roles"
+msgstr "Roles"
+
+#: Template/Roles/index.ctp:43
+#: Template/Roles/view.ctp:116
+#: Template/Default/MailCategories/view.ctp:88
+msgid "View"
+msgstr "View"
+
+#: Template/Roles/index.ctp:44
+#: Template/Roles/view.ctp:117
+#: Template/Default/MailCategories/view.ctp:89
+msgid "Edit"
+msgstr "Edit"
+
+#: Template/Roles/index.ctp:53
+msgid "first"
+msgstr "first"
+
+#: Template/Roles/index.ctp:54
+msgid "previous"
+msgstr "previous"
+
+#: Template/Roles/index.ctp:56
+msgid "next"
+msgstr "next"
+
+#: Template/Roles/index.ctp:57
+msgid "last"
+msgstr "last"
+
+#: Template/Roles/index.ctp:59
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+
+#: Template/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr "Delete Role"
+
+#: Template/Roles/view.ctp:26
+msgid "Alias"
+msgstr "Alias"
+
+#: Template/Roles/view.ctp:30
+msgid "Color"
+msgstr "Color"
+
+#: Template/Roles/view.ctp:34
+msgid "Description"
+msgstr "Description"
+
+#: Template/Roles/view.ctp:38;59
+#: Template/Default/Contacts/view.ctp:28
+#: Template/Default/MailCategories/view.ctp:36;65
+#: Template/Default/Newsletters/view.ctp:28
+msgid "Id"
+msgstr "Id"
+
+#: Template/Roles/view.ctp:42;69
+#: Template/Default/Contacts/view.ctp:44
+#: Template/Default/MailCategories/view.ctp:56;69
+#: Template/Default/Newsletters/view.ctp:44
+msgid "Status"
+msgstr "Status"
+
+#: Template/Roles/view.ctp:46;83
+#: Template/Default/Contacts/view.ctp:36
+#: Template/Default/MailCategories/view.ctp:48;72
+#: Template/Default/Newsletters/view.ctp:36
+msgid "Created"
+msgstr "Created"
+
+#: Template/Roles/view.ctp:50;84
+#: Template/Default/Contacts/view.ctp:40
+#: Template/Default/MailCategories/view.ctp:52;73
+#: Template/Default/Newsletters/view.ctp:40
+msgid "Modified"
+msgstr "Modified"
+
+#: Template/Roles/view.ctp:55
+msgid "Related Users"
+msgstr "Related Users"
+
+#: Template/Roles/view.ctp:60
+#: Template/Default/Contacts/view.ctp:20
+#: Template/Default/Newsletters/view.ctp:20
+msgid "Email"
+msgstr "Email"
+
+#: Template/Roles/view.ctp:61
+msgid "Password"
+msgstr "Password"
+
+#: Template/Roles/view.ctp:62
+msgid "Role Id"
+msgstr "Role Id"
+
+#: Template/Roles/view.ctp:63
+msgid "Gender"
+msgstr "Gender"
+
+#: Template/Roles/view.ctp:64
+msgid "First Name"
+msgstr "First Name"
+
+#: Template/Roles/view.ctp:65
+msgid "Last Name"
+msgstr "Last Name"
+
+#: Template/Roles/view.ctp:66
+msgid "Birthday"
+msgstr "Birthday"
+
+#: Template/Roles/view.ctp:67
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: Template/Roles/view.ctp:68
+#: Template/Default/MailCategories/view.ctp:28;67
+msgid "Image"
+msgstr "Image"
+
+#: Template/Roles/view.ctp:70
+msgid "Active"
+msgstr "Active"
+
+#: Template/Roles/view.ctp:71
+msgid "System"
+msgstr "System"
+
+#: Template/Roles/view.ctp:72
+msgid "Company"
+msgstr "Company"
+
+#: Template/Roles/view.ctp:73
+msgid "Address"
+msgstr "Address"
+
+#: Template/Roles/view.ctp:74
+msgid "City"
+msgstr "City"
+
+#: Template/Roles/view.ctp:75
+msgid "State"
+msgstr "State"
+
+#: Template/Roles/view.ctp:76
+msgid "Zip Code"
+msgstr "Zip Code"
+
+#: Template/Roles/view.ctp:77
+msgid "Country Id"
+msgstr "Country Id"
+
+#: Template/Roles/view.ctp:78
+msgid "Note"
+msgstr "Note"
+
+#: Template/Roles/view.ctp:79
+msgid "Fbid"
+msgstr "Fbid"
+
+#: Template/Roles/view.ctp:80
+msgid "Ggid"
+msgstr "Ggid"
+
+#: Template/Roles/view.ctp:81
+msgid "Last Visit"
+msgstr "Last Visit"
+
+#: Template/Roles/view.ctp:82
+#: Template/Default/Contacts/view.ctp:32
+#: Template/Default/Newsletters/view.ctp:32
+msgid "Has Read"
+msgstr "Has Read"
+
+#: Template/Users/login.ctp:97
+#: Template/Users/profile.ctp:97
+msgid "Sign in"
+msgstr "Sign in"
+
+#: Template/Users/my_account_download.ctp:28
+msgid "DOWNLOAD"
+msgstr "DOWNLOAD"
+
+#: Template/Users/my_account_download.ctp:41
+msgid "Download File"
+msgstr "Download File"
+
+#: Template/Users/profile_management.ctp:28
+msgid "Profile Management"
+msgstr "Profile Management"
+
+#: Controller/ContactsController.php:99
+msgid "The contact has been deleted."
+msgstr "The contact has been deleted."
+
+#: Controller/ContactsController.php:101
+msgid "The contact could not be deleted. Please, try again."
+msgstr "The contact could not be deleted. Please, try again."
+
+#: Controller/MailCategoriesController.php:63;94
+msgid "The mail category has been saved."
+msgstr "The mail category has been saved."
+
+#: Controller/MailCategoriesController.php:67;98
+msgid "The mail category could not be saved. Please, try again."
+msgstr "The mail category could not be saved. Please, try again."
+
+#: Controller/MailCategoriesController.php:121
+msgid "The mail category has been deleted."
+msgstr "The mail category has been deleted."
+
+#: Controller/MailCategoriesController.php:123
+msgid "The mail category could not be deleted. Please, try again."
+msgstr "The mail category could not be deleted. Please, try again."
+
+#: Controller/NewslettersController.php:99
+msgid "The newsletter has been deleted."
+msgstr "The newsletter has been deleted."
+
+#: Controller/NewslettersController.php:101
+msgid "The newsletter could not be deleted. Please, try again."
+msgstr "The newsletter could not be deleted. Please, try again."
+
+#: Template/Default/Contacts/add.ctp:10
+#: Template/Default/Contacts/view.ctp:12
+msgid "List Contacts"
+msgstr "List Contacts"
+
+#: Template/Default/Contacts/add.ctp:16
+msgid "Add Contact"
+msgstr "Add Contact"
+
+#: Template/Default/Contacts/edit.ctp:16
+msgid "List Contact"
+msgstr "List Contact"
+
+#: Template/Default/Contacts/edit.ctp:22
+#: Template/Default/Contacts/view.ctp:10
+msgid "Edit Contact"
+msgstr "Edit Contact"
+
+#: Template/Default/Contacts/view.ctp:11
+msgid "Delete Contact"
+msgstr "Delete Contact"
+
+#: Template/Default/Contacts/view.ctp:13
+msgid "New Contact"
+msgstr "New Contact"
+
+#: Template/Default/Contacts/view.ctp:45
+#: Template/Default/MailCategories/view.ctp:57
+#: Template/Default/Newsletters/view.ctp:45
+msgid "Yes"
+msgstr "Yes"
+
+#: Template/Default/Contacts/view.ctp:45
+#: Template/Default/MailCategories/view.ctp:57
+#: Template/Default/Newsletters/view.ctp:45
+msgid "No"
+msgstr "No"
+
+#: Template/Default/MailCategories/view.ctp:10
+msgid "Edit Mail Category"
+msgstr "Edit Mail Category"
+
+#: Template/Default/MailCategories/view.ctp:11
+msgid "Delete Mail Category"
+msgstr "Delete Mail Category"
+
+#: Template/Default/MailCategories/view.ctp:12
+msgid "List Mail Categories"
+msgstr "List Mail Categories"
+
+#: Template/Default/MailCategories/view.ctp:13
+msgid "New Mail Category"
+msgstr "New Mail Category"
+
+#: Template/Default/MailCategories/view.ctp:14
+msgid "List Parent Mail Categories"
+msgstr "List Parent Mail Categories"
+
+#: Template/Default/MailCategories/view.ctp:15
+msgid "New Parent Mail Category"
+msgstr "New Parent Mail Category"
+
+#: Template/Default/MailCategories/view.ctp:16
+msgid "List Child Mail Categories"
+msgstr "List Child Mail Categories"
+
+#: Template/Default/MailCategories/view.ctp:17
+msgid "New Child Mail Category"
+msgstr "New Child Mail Category"
+
+#: Template/Default/MailCategories/view.ctp:24
+msgid "Parent Mail Category"
+msgstr "Parent Mail Category"
+
+#: Template/Default/MailCategories/view.ctp:32;68
+msgid "Uuid"
+msgstr "Uuid"
+
+#: Template/Default/MailCategories/view.ctp:40;70
+msgid "Lft"
+msgstr "Lft"
+
+#: Template/Default/MailCategories/view.ctp:44;71
+msgid "Rght"
+msgstr "Rght"
+
+#: Template/Default/MailCategories/view.ctp:61
+msgid "Related Mail Categories"
+msgstr "Related Mail Categories"
+
+#: Template/Default/MailCategories/view.ctp:66
+msgid "Parent Id"
+msgstr "Parent Id"
+
+#: Template/Default/Newsletters/add.ctp:10
+#: Template/Default/Newsletters/edit.ctp:16
+#: Template/Default/Newsletters/view.ctp:12
+msgid "List Newsletters"
+msgstr "List Newsletters"
+
+#: Template/Default/Newsletters/add.ctp:16
+msgid "Add Newsletter"
+msgstr "Add Newsletter"
+
+#: Template/Default/Newsletters/edit.ctp:22
+#: Template/Default/Newsletters/view.ctp:10
+msgid "Edit Newsletter"
+msgstr "Edit Newsletter"
+
+#: Template/Default/Newsletters/view.ctp:11
+msgid "Delete Newsletter"
+msgstr "Delete Newsletter"
+
+#: Template/Default/Newsletters/view.ctp:13
+msgid "New Newsletter"
+msgstr "New Newsletter"
+
+#: Template/Default/Pages/search.ctp:28
+msgid "No Data"
+msgstr "No Data"
+
+#: Controller/AlbumsController.php:24
+msgid "Albums"
+msgstr "Albums"
+
+#: Controller/ArticlesController.php:60
+#: Template/Element/header.ctp:59
+msgid "News"
+msgstr "News"
+
+#: Controller/CartsController.php:100
+msgid "Shipping addresses"
+msgstr "Shipping addresses"
+
+#: Controller/CartsController.php:116
+msgid "Payment method"
+msgstr "Payment method"
+
+#: Controller/CartsController.php:179
+#: Template/Carts/complete.ctp:46
+msgid "Order completed"
+msgstr "Order completed"
+
+#: Controller/PagesController.php:56
+msgid "Select Language"
+msgstr "Select Language"
+
+#: Controller/PagesController.php:62
+#: Template/Element/footer.ctp:6
+#: Template/Element/header.ctp:75
+msgid "Contact"
+msgstr "Contact"
+
+#: Controller/PagesController.php:76
+#: Template/Element/footer.ctp:5
+#: Template/Element/header.ctp:74
+msgid "Store Location"
+msgstr "Store Location"
+
+#: Controller/PagesController.php:81
+#: Template/Element/header.ctp:55
+msgid "Thuy"
+msgstr "Thuy"
+
+#: Controller/ProductsController.php:30
+msgid "Products"
+msgstr "Products"
+
+#: Template/Albums/index.ctp:33
+#: Template/Products/category.ctp:22
+#: Template/Products/index.ctp:22
+msgid "View Detail"
+msgstr "View Detail"
+
+#: Template/Articles/category.ctp:32;44
+msgid "See more"
+msgstr "See more"
+
+#: Template/Articles/news_details.ctp:24
+msgid "Back to news"
+msgstr "Back to news"
+
+#: Template/Carts/checkout.ctp:11
+msgid "Images"
+msgstr "Images"
+
+#: Template/Carts/checkout.ctp:12
+msgid "Product Name"
+msgstr "Product Name"
+
+#: Template/Carts/checkout.ctp:13
+msgid "Unit Price"
+msgstr "Unit Price"
+
+#: Template/Carts/checkout.ctp:14
+msgid "Qty"
+msgstr "Qty"
+
+#: Template/Carts/checkout.ctp:15
+msgid "Total"
+msgstr "Total"
+
+#: Template/Carts/checkout.ctp:80
+msgid "Cart Totals"
+msgstr "Cart Totals"
+
+#: Template/Carts/checkout.ctp:87
+msgid "Cart Subtotal:"
+msgstr "Cart Subtotal:"
+
+#: Template/Carts/checkout.ctp:102;111
+#: Template/Carts/index.ctp:99
+#: Template/Carts/shipping_address.ctp:158
+msgid "Coupon"
+msgstr "Coupon"
+
+#: Template/Carts/checkout.ctp:120
+msgid "Total gift-wrapping:"
+msgstr "Total gift-wrapping:"
+
+#: Template/Carts/checkout.ctp:126
+msgid "Shipping & Handling"
+msgstr "Shipping & Handling"
+
+#: Template/Carts/checkout.ctp:127
+msgid "Free Shipping!"
+msgstr "Free Shipping!"
+
+#: Template/Carts/checkout.ctp:133
+msgid "Order Total"
+msgstr "Order Total"
+
+#: Template/Carts/checkout.ctp:150
+msgid "Select method"
+msgstr "Select method"
+
+#: Template/Carts/checkout.ctp:152
+#: Template/Carts/complete.ctp:22
+msgid "Pay by bank"
+msgstr "Pay by bank"
+
+#: Template/Carts/checkout.ctp:153
+#: Template/Carts/complete.ctp:22
+msgid "Pay by check"
+msgstr "Pay by check"
+
+#: Template/Carts/checkout.ctp:154
+msgid "Via Ngân Lượng"
+msgstr "Via Ngân Lượng"
+
+#: Template/Carts/checkout.ctp:155
+msgid "Via Paypal"
+msgstr "Via Paypal"
+
+#: Template/Carts/checkout.ctp:159
+msgid "Submit Order"
+msgstr "Submit Order"
+
+#: Template/Carts/complete.ctp:22
+msgid "Pay via Ngân Lượng"
+msgstr "Pay via Ngân Lượng"
+
+#: Template/Carts/complete.ctp:22
+msgid "Pay via Paypal"
+msgstr "Pay via Paypal"
+
+#: Template/Carts/complete.ctp:23
+msgid "Undefined"
+msgstr "Undefined"
+
+#: Template/Carts/complete.ctp:23
+msgid "Fast delivery 24h"
+msgstr "Fast delivery 24h"
+
+#: Template/Carts/complete.ctp:23
+msgid "First class mail"
+msgstr "First class mail"
+
+#: Template/Carts/complete.ctp:23
+msgid "In home"
+msgstr "In home"
+
+#: Template/Carts/complete.ctp:23
+msgid "In Shop"
+msgstr "In Shop"
+
+#: Template/Carts/complete.ctp:47
+msgid "Thank you !. Your package will be shipped soon"
+msgstr "Thank you !. Your package will be shipped soon"
+
+#: Template/Carts/complete.ctp:54
+msgid "Shipping Label"
+msgstr "Shipping Label"
+
+#: Template/Carts/complete.ctp:57
+msgid "contact"
+msgstr "contact"
+
+#: Template/Carts/complete.ctp:63
+msgid "Recipient address"
+msgstr "Recipient address"
+
+#: Template/Carts/complete.ctp:71
+#: Template/Carts/shipping_address.ctp:151
+msgid "Order Summary"
+msgstr "Order Summary"
+
+#: Template/Carts/complete.ctp:74
+msgid "Final amount"
+msgstr "Final amount"
+
+#: Template/Carts/complete.ctp:78
+msgid "Discounted"
+msgstr "Discounted"
+
+#: Template/Carts/complete.ctp:82
+msgid "Shipping"
+msgstr "Shipping"
+
+#: Template/Carts/complete.ctp:86
+msgid "Payment"
+msgstr "Payment"
+
+#: Template/Carts/complete.ctp:98
+msgid "Order information"
+msgstr "Order information"
+
+#: Template/Carts/complete.ctp:142
+msgid "Home Page"
+msgstr "Home Page"
+
+#: Template/Carts/complete.ctp:166
+#: Template/Carts/shipping_address.ctp:203
+msgid "Free shipping"
+msgstr "Free shipping"
+
+#: Template/Carts/complete.ctp:232
+#: Template/Carts/index.ctp:177
+#: Template/Carts/shipping_address.ctp:283
+msgid "No coupon applied"
+msgstr "No coupon applied"
+
+#: Template/Carts/index.ctp:20
+msgid "SHOPPING BAG"
+msgstr "SHOPPING BAG"
+
+#: Template/Carts/index.ctp:29
+msgid "Product Image"
+msgstr "Product Image"
+
+#: Template/Carts/index.ctp:30
+msgid "Attributes"
+msgstr "Attributes"
+
+#: Template/Carts/index.ctp:31
+msgid "Unit price"
+msgstr "Unit price"
+
+#: Template/Carts/index.ctp:32
+#: Template/Products/details.ctp:120
+msgid "Quantity"
+msgstr "Quantity"
+
+#: Template/Carts/index.ctp:33;95
+#: Template/Carts/shipping_address.ctp:154
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: Template/Carts/index.ctp:79
+msgid "Order Detail"
+msgstr "Order Detail"
+
+#: Template/Carts/index.ctp:83
+msgid "Coupon code"
+msgstr "Coupon code"
+
+#: Template/Carts/index.ctp:84;215;291
+msgid "Redeem"
+msgstr "Redeem"
+
+#: Template/Carts/index.ctp:89
+msgid "Invalid coupon"
+msgstr "Invalid coupon"
+
+#: Template/Carts/index.ctp:108
+#: Template/Carts/shipping_address.ctp:166
+msgid "Order total"
+msgstr "Order total"
+
+#: Template/Carts/index.ctp:118
+msgid "Continue Shopping"
+msgstr "Continue Shopping"
+
+#: Template/Carts/index.ctp:119
+msgid "Update quantity"
+msgstr "Update quantity"
+
+#: Template/Carts/index.ctp:120
+msgid "Proceed to checkout"
+msgstr "Proceed to checkout"
+
+#: Template/Carts/index.ctp:130
+msgid "Your shopping bag is currently empty"
+msgstr "Your shopping bag is currently empty"
+
+#: Template/Carts/index.ctp:134
+msgid "Shop now"
+msgstr "Shop now"
+
+#: Template/Carts/index.ctp:202;279
+msgid "Remove"
+msgstr "Remove"
+
+#: Template/Carts/shipping_address.ctp:54
+msgid "Review Order"
+msgstr "Review Order"
+
+#: Template/Carts/shipping_address.ctp:55
+msgid "Just one more step to get your order completed"
+msgstr "Just one more step to get your order completed"
+
+#: Template/Carts/shipping_address.ctp:62
+msgid "Your shipping address"
+msgstr "Your shipping address"
+
+#: Template/Carts/shipping_address.ctp:62
+msgid "required"
+msgstr "required"
+
+#: Template/Carts/shipping_address.ctp:64
+#: Template/Pages/contact.ctp:83
+msgid "Your name"
+msgstr "Your name"
+
+#: Template/Carts/shipping_address.ctp:65
+msgid "email address"
+msgstr "email address"
+
+#: Template/Carts/shipping_address.ctp:68
+msgid "optional"
+msgstr "optional"
+
+#: Template/Carts/shipping_address.ctp:70
+msgid "Phone number"
+msgstr "Phone number"
+
+#: Template/Carts/shipping_address.ctp:72
+msgid "Street address"
+msgstr "Street address"
+
+#: Template/Carts/shipping_address.ctp:90
+msgid "Optional"
+msgstr "Optional"
+
+#: Template/Carts/shipping_address.ctp:92
+msgid "Delivery instruction"
+msgstr "Delivery instruction"
+
+#: Template/Carts/shipping_address.ctp:97
+msgid "Shipping Methods"
+msgstr "Shipping Methods"
+
+#: Template/Carts/shipping_address.ctp:106
+msgid "Payment Methods"
+msgstr "Payment Methods"
+
+#: Template/Carts/shipping_address.ctp:114
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+#: Template/Carts/shipping_address.ctp:117
+msgid "I accept with the terms & conditions."
+msgstr "I accept with the terms & conditions."
+
+#: Template/Carts/shipping_address.ctp:123
+msgid "Your items"
+msgstr "Your items"
+
+#: Template/Carts/shipping_address.ctp:124
+msgid "edit cart"
+msgstr "edit cart"
+
+#: Template/Carts/shipping_address.ctp:162
+msgid "Shipping fee"
+msgstr "Shipping fee"
+
+#: Template/Carts/shipping_address.ctp:170
+msgid "Place Order"
+msgstr "Place Order"
+
+#: Template/Element/footer.ctp:4
+#: Template/Element/header.ctp:57
+msgid "Press"
+msgstr "Press"
+
+#: Template/Element/header.ctp:35
+msgid "Shop"
+msgstr "Shop"
+
+#: Template/Element/header.ctp:44
+msgid "Collection"
+msgstr "Collection"
+
+#: Template/Element/page-category-header.ctp:7
+msgid "Articles"
+msgstr "Articles"
+
+#: Template/Element/page-category-header.ctp:9
+msgid "EDITORIAL"
+msgstr "EDITORIAL"
+
+#: Template/Element/page-category-header.ctp:11
+msgid "Videos"
+msgstr "Videos"
+
+#: Template/Pages/contact.ctp:22
+msgid "Your feedback is important to us"
+msgstr "Your feedback is important to us"
+
+#: Template/Pages/contact.ctp:24
+msgid "Get in touch with us by sending a question to our customer care advisor"
+msgstr "Get in touch with us by sending a question to our customer care advisor"
+
+#: Template/Pages/contact.ctp:69
+msgid "Your messages has been sent."
+msgstr "Your messages has been sent."
+
+#: Template/Pages/contact.ctp:71
+msgid "Thank you for contact us."
+msgstr "Thank you for contact us."
+
+#: Template/Pages/contact.ctp:76
+msgid "Have a question"
+msgstr "Have a question"
+
+#: Template/Pages/contact.ctp:86
+msgid "Messages to us"
+msgstr "Messages to us"
+
+#: Template/Pages/contact.ctp:87
+msgid "Send Message"
+msgstr "Send Message"
+
+#: Template/Pages/home.ctp:30
+msgid "SHOP NOW"
+msgstr "SHOP NOW"
+
+#: Template/Pages/home.ctp:33
+msgid "THUY"
+msgstr "THUY"
+
+#: Template/Products/details.ctp:107
+msgid "Select size"
+msgstr "Select size"
+
+#: Template/Products/details.ctp:162
+msgid "Size Guide"
+msgstr "Size Guide"
+
+#: Template/Products/details.ctp:165
+msgid "ORDER"
+msgstr "ORDER"
+
+#: Template/Products/details.ctp:168
+msgid "Share"
+msgstr "Share"
+
+#: Controller/OrdersController.php:134
+msgid "The order has been deleted."
+msgstr "The order has been deleted."
+
+#: Controller/OrdersController.php:136
+msgid "The order could not be deleted. Please, try again."
+msgstr "The order could not be deleted. Please, try again."

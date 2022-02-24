@@ -1,0 +1,2217 @@
+#: Controller/ArticleCategoriesController.php:66;103
+msgid "The article category has been saved."
+msgstr "The article category has been saved."
+
+#: Controller/ArticleCategoriesController.php:70;107
+msgid "The article category could not be saved. Please, try again."
+msgstr "The article category could not be saved. Please, try again."
+
+#: Controller/ArticleCategoriesController.php:130
+msgid "The article category has been deleted."
+msgstr "The article category has been deleted."
+
+#: Controller/ArticleCategoriesController.php:132
+msgid "The article category could not be deleted. Please, try again."
+msgstr "The article category could not be deleted. Please, try again."
+
+#: Controller/ArticlesController.php:77;116
+msgid "The article has been saved."
+msgstr "The article has been saved."
+
+#: Controller/ArticlesController.php:81;120
+msgid "The article could not be saved. Please, try again."
+msgstr "The article could not be saved. Please, try again."
+
+#: Controller/ArticlesController.php:144
+msgid "The article has been deleted."
+msgstr "The article has been deleted."
+
+#: Controller/ArticlesController.php:146
+msgid "The article could not be deleted. Please, try again."
+msgstr "The article could not be deleted. Please, try again."
+
+#: Controller/BannerCategoriesController.php:77;116
+msgid "The banner category has been saved."
+msgstr "The banner category has been saved."
+
+#: Controller/BannerCategoriesController.php:81;120
+msgid "The banner category could not be saved. Please, try again."
+msgstr "The banner category could not be saved. Please, try again."
+
+#: Controller/BannerCategoriesController.php:145
+msgid "The banner category has been deleted."
+msgstr "The banner category has been deleted."
+
+#: Controller/BannerCategoriesController.php:147
+msgid "The banner category could not be deleted. Please, try again."
+msgstr "The banner category could not be deleted. Please, try again."
+
+#: Controller/BannersController.php:98;137
+msgid "The banner has been saved."
+msgstr "The banner has been saved."
+
+#: Controller/BannersController.php:102;141
+msgid "The banner could not be saved. Please, try again."
+msgstr "The banner could not be saved. Please, try again."
+
+#: Controller/BannersController.php:165
+msgid "The banner has been deleted."
+msgstr "The banner has been deleted."
+
+#: Controller/BannersController.php:167
+msgid "The banner could not be deleted. Please, try again."
+msgstr "The banner could not be deleted. Please, try again."
+
+#: Controller/DocumentCategoriesController.php:77;116
+msgid "The document category has been saved."
+msgstr "The document category has been saved."
+
+#: Controller/DocumentCategoriesController.php:81;120
+msgid "The document category could not be saved. Please, try again."
+msgstr "The document category could not be saved. Please, try again."
+
+#: Controller/DocumentCategoriesController.php:145
+msgid "The document category has been deleted."
+msgstr "The document category has been deleted."
+
+#: Controller/DocumentCategoriesController.php:147
+msgid "The document category could not be deleted. Please, try again."
+msgstr "The document category could not be deleted. Please, try again."
+
+#: Controller/DocumentsController.php:94;136
+msgid "The document has been saved."
+msgstr "The document has been saved."
+
+#: Controller/DocumentsController.php:98;140
+msgid "The document could not be saved. Please, try again."
+msgstr "The document could not be saved. Please, try again."
+
+#: Controller/DocumentsController.php:167
+msgid "The document has been deleted."
+msgstr "The document has been deleted."
+
+#: Controller/DocumentsController.php:169
+msgid "The document could not be deleted. Please, try again."
+msgstr "The document could not be deleted. Please, try again."
+
+#: Controller/FaqCategoriesController.php:66;103
+msgid "The faq category has been saved."
+msgstr "The faq category has been saved."
+
+#: Controller/FaqCategoriesController.php:70;107
+msgid "The faq category could not be saved. Please, try again."
+msgstr "The faq category could not be saved. Please, try again."
+
+#: Controller/FaqCategoriesController.php:130
+msgid "The faq category has been deleted."
+msgstr "The faq category has been deleted."
+
+#: Controller/FaqCategoriesController.php:132
+msgid "The faq category could not be deleted. Please, try again."
+msgstr "The faq category could not be deleted. Please, try again."
+
+#: Controller/FaqsController.php:77;116
+msgid "The faq has been saved."
+msgstr "The faq has been saved."
+
+#: Controller/FaqsController.php:81;120
+msgid "The faq could not be saved. Please, try again."
+msgstr "The faq could not be saved. Please, try again."
+
+#: Controller/FaqsController.php:144
+msgid "The faq has been deleted."
+msgstr "The faq has been deleted."
+
+#: Controller/FaqsController.php:146
+msgid "The faq could not be deleted. Please, try again."
+msgstr "The faq could not be deleted. Please, try again."
+
+#: Controller/LanguagesController.php:60;85
+msgid "The language has been saved."
+msgstr "The language has been saved."
+
+#: Controller/LanguagesController.php:64;89
+msgid "The language could not be saved. Please, try again."
+msgstr "The language could not be saved. Please, try again."
+
+#: Controller/LanguagesController.php:106
+msgid "The language has been deleted."
+msgstr "The language has been deleted."
+
+#: Controller/LanguagesController.php:108
+msgid "The language could not be deleted. Please, try again."
+msgstr "The language could not be deleted. Please, try again."
+
+#: Controller/PageCategoriesController.php:66;103
+msgid "The page category has been saved."
+msgstr "The page category has been saved."
+
+#: Controller/PageCategoriesController.php:70;107
+msgid "The page category could not be saved. Please, try again."
+msgstr "The page category could not be saved. Please, try again."
+
+#: Controller/PageCategoriesController.php:130
+msgid "The page category has been deleted."
+msgstr "The page category has been deleted."
+
+#: Controller/PageCategoriesController.php:132
+msgid "The page category could not be deleted. Please, try again."
+msgstr "The page category could not be deleted. Please, try again."
+
+#: Controller/PagesController.php:157;195
+msgid "The page has been saved."
+msgstr "The page has been saved."
+
+#: Controller/PagesController.php:161;199
+msgid "The page could not be saved. Please, try again."
+msgstr "The page could not be saved. Please, try again."
+
+#: Controller/PagesController.php:222
+msgid "The page has been deleted."
+msgstr "The page has been deleted."
+
+#: Controller/PagesController.php:224
+msgid "The page could not be deleted. Please, try again."
+msgstr "The page could not be deleted. Please, try again."
+
+#: Controller/PosController.php:191
+msgid "Update success"
+msgstr "Update success"
+
+#: Controller/PosController.php:193
+msgid "Update error"
+msgstr "Update error"
+
+#: Controller/PosController.php:296
+msgid "Update success."
+msgstr "Update success."
+
+#: Controller/RolesController.php:43
+msgid "{0} role is full permission"
+msgstr "{0} role is full permission"
+
+#: Controller/RolesController.php:87;125;151
+msgid "The role has been saved."
+msgstr "The role has been saved."
+
+#: Controller/RolesController.php:91;129;155
+msgid "The role could not be saved. Please, try again."
+msgstr "The role could not be saved. Please, try again."
+
+#: Controller/RolesController.php:173
+msgid "{0} role could not be deleted"
+msgstr "{0} role could not be deleted"
+
+#: Controller/RolesController.php:180
+msgid "The role has been deleted."
+msgstr "The role has been deleted."
+
+#: Controller/RolesController.php:182
+msgid "The role could not be deleted. Please, try again."
+msgstr "The role could not be deleted. Please, try again."
+
+#: Controller/SettingsController.php:87
+msgid "The setting has been saved."
+msgstr "The setting has been saved."
+
+#: Controller/SettingsController.php:91
+msgid "The setting could not be saved. Please, try again."
+msgstr "The setting could not be saved. Please, try again."
+
+#: Controller/UsersController.php:69;97
+msgid "The user has been saved."
+msgstr "The user has been saved."
+
+#: Controller/UsersController.php:73;101
+msgid "The user could not be saved. Please, try again."
+msgstr "The user could not be saved. Please, try again."
+
+#: Controller/UsersController.php:121
+msgid "The user has been deleted."
+msgstr "The user has been deleted."
+
+#: Controller/UsersController.php:123
+msgid "The user could not be deleted. Please, try again."
+msgstr "The user could not be deleted. Please, try again."
+
+#: Controller/UsersController.php:146;168;188
+msgid "Login success"
+msgstr "Login success"
+
+#: Controller/UsersController.php:149
+msgid "Your username or password was incorrect."
+msgstr "Your username or password was incorrect."
+
+#: Controller/UsersController.php:171;191
+msgid "The email is incorrect or the code has expired"
+msgstr "The email is incorrect or the code has expired"
+
+#: Controller/UsersController.php:234
+msgid "Login By Email"
+msgstr "Login By Email"
+
+#: Controller/UsersController.php:242
+msgid "This user does not exist"
+msgstr "This user does not exist"
+
+#: Controller/UsersController.php:254
+msgid "Good-Bye, See you later."
+msgstr "Good-Bye, See you later."
+
+#: Model/Table/RolesTable.php:99
+msgid "ArticleCategories"
+msgstr "ArticleCategories"
+
+#: Model/Table/RolesTable.php:101;110;119;128;137;146;155;165;175;185;196;205;214;223;232;248
+msgid "Index"
+msgstr "Index"
+
+#: Model/Table/RolesTable.php:102;111;120;129;138;147;156;166;176;186;197;206;215;224;233
+#: Template/Default/ArticleCategories/add.ctp:9
+#: Template/Default/Articles/add.ctp:9
+#: Template/Default/BannerCategories/add.ctp:9
+#: Template/Default/Banners/add.ctp:9
+#: Template/Default/DocumentCategories/add.ctp:9
+#: Template/Default/Documents/add.ctp:9
+#: Template/Default/FaqCategories/add.ctp:9
+#: Template/Default/Faqs/add.ctp:9
+#: Template/Default/PageCategories/add.ctp:9
+#: Template/Default/Pages/add.ctp:9
+#: Template/Default/Roles/add.ctp:9
+#: Template/Default/Users/add.ctp:9
+msgid "Add"
+msgstr "Thêm"
+
+#: Model/Table/RolesTable.php:103;112;121;130;139;148;157;167;177;187;198;207;216;225;234
+#: Template/Default/ArticleCategories/view.ctp:103;152
+#: Template/Default/BannerCategories/view.ctp:85;124
+#: Template/Default/Banners/view.ctp:85;124
+#: Template/Default/DocumentCategories/view.ctp:85;124
+#: Template/Default/Documents/view.ctp:85;124
+#: Template/Default/FaqCategories/view.ctp:103;152
+#: Template/Default/Languages/translates.ctp:59;65
+#: Template/Default/PageCategories/view.ctp:91;140
+#: Template/Default/Roles/view.ctp:117
+#: Template/Default/Settings/edit.ctp:9
+#: Template/Default/Settings/index.ctp:124
+#: Template/Element/Core/action.ctp:4
+msgid "Edit"
+msgstr "Sửa"
+
+#: Model/Table/RolesTable.php:104;113;122;131;140;149;158;168;178;188;199;208;217;226;235;249
+#: Template/Default/ArticleCategories/edit.ctp:25
+#: Template/Default/ArticleCategories/view.ctp:104;153
+#: Template/Default/Articles/edit.ctp:25
+#: Template/Default/BannerCategories/edit.ctp:25
+#: Template/Default/BannerCategories/view.ctp:86;125
+#: Template/Default/Banners/edit.ctp:25
+#: Template/Default/Banners/view.ctp:86;125
+#: Template/Default/DocumentCategories/edit.ctp:25
+#: Template/Default/DocumentCategories/view.ctp:86;125
+#: Template/Default/Documents/edit.ctp:25
+#: Template/Default/Documents/view.ctp:86;125
+#: Template/Default/FaqCategories/edit.ctp:25
+#: Template/Default/FaqCategories/view.ctp:104;153
+#: Template/Default/Faqs/edit.ctp:25
+#: Template/Default/Languages/edit.ctp:25
+#: Template/Default/PageCategories/edit.ctp:25
+#: Template/Default/PageCategories/view.ctp:92;141
+#: Template/Default/Pages/edit.ctp:25
+#: Template/Default/Roles/edit.ctp:25
+#: Template/Default/Roles/view.ctp:118
+#: Template/Default/Settings/index.ctp:125
+#: Template/Default/Users/edit.ctp:25
+#: Template/Element/Core/action.ctp:10
+#: Template/Element/Core/pagination.ctp:27
+msgid "Delete"
+msgstr "Xóa"
+
+#: Model/Table/RolesTable.php:108
+#: Template/Element/menu.ctp:157
+msgid "Articles"
+msgstr "Tin tức"
+
+#: Model/Table/RolesTable.php:117
+msgid "BannerCategories"
+msgstr "BannerCategories"
+
+#: Model/Table/RolesTable.php:126
+#: Template/Element/menu.ctp:51
+msgid "Banners"
+msgstr "Bảng nội dung"
+
+#: Model/Table/RolesTable.php:135
+msgid "DocumentCategories"
+msgstr "DocumentCategories"
+
+#: Model/Table/RolesTable.php:144
+#: Template/Element/menu.ctp:105
+msgid "Documents"
+msgstr "Tài liệu"
+
+#: Model/Table/RolesTable.php:153
+msgid "PageCategories"
+msgstr "PageCategories"
+
+#: Model/Table/RolesTable.php:162
+#: Template/Element/menu.ctp:210
+msgid "Pages"
+msgstr "Trang"
+
+#: Model/Table/RolesTable.php:164;184
+#: Template/Element/menu.ctp:8
+msgid "Dashboard"
+msgstr "Thống kê"
+
+#: Model/Table/RolesTable.php:173
+msgid "MailCategories"
+msgstr "MailCategories"
+
+#: Model/Table/RolesTable.php:182
+#: Template/Element/menu.ctp:321
+msgid "Mails"
+msgstr "Mails"
+
+#: Model/Table/RolesTable.php:194
+msgid "FaqCategories"
+msgstr "FaqCategories"
+
+#: Model/Table/RolesTable.php:203
+#: Template/Element/menu.ctp:263
+msgid "Faqs"
+msgstr "Hỏi đáp"
+
+#: Model/Table/RolesTable.php:212
+msgid "Languages"
+msgstr "Languages"
+
+#: Model/Table/RolesTable.php:221
+msgid "Roles"
+msgstr "Roles"
+
+#: Model/Table/RolesTable.php:230
+#: Template/Default/Users/edit.ctp:19
+#: Template/Default/Users/index.ctp:19
+#: Template/Element/menu.ctp:414
+msgid "Users"
+msgstr "Thành viên"
+
+#: Model/Table/RolesTable.php:236;250
+#: Template/Element/Core/pagination.ctp:32
+msgid "Export Excel"
+msgstr "Export Excel"
+
+#: Model/Table/RolesTable.php:240
+#: Template/Default/Settings/index.ctp:16
+#: Template/Element/menu.ctp:467
+msgid "Settings"
+msgstr "Cấu hình"
+
+#: Model/Table/RolesTable.php:242
+#: Template/Element/menu.ctp:433
+msgid "General Settings"
+msgstr "Thiết lập"
+
+#: Model/Table/RolesTable.php:246
+#: Template/Default/Newsletters/index.ctp:19
+#: Template/Element/menu.ctp:362
+msgid "Newsletters"
+msgstr "Nhận bản tin"
+
+#: Model/Table/RolesTable.php:256
+msgid "updateStatus"
+msgstr "updateStatus"
+
+#: Model/Table/RolesTable.php:257
+msgid "deleteFile"
+msgstr "deleteFile"
+
+#: Model/Table/RolesTable.php:258
+msgid "uploadFile"
+msgstr "uploadFile"
+
+#: Template/Default/ArticleCategories/add.ctp:7
+#: Template/Default/ArticleCategories/edit.ctp:7
+#: Template/Default/ArticleCategories/index.ctp:7
+#: Template/Default/ArticleCategories/view.ctp:126
+#: Template/Default/Articles/add.ctp:7
+#: Template/Default/Articles/edit.ctp:7
+#: Template/Default/Articles/index.ctp:7
+#: Template/Default/Articles/view.ctp:80
+#: Template/Default/BannerCategories/add.ctp:7
+#: Template/Default/BannerCategories/edit.ctp:7
+#: Template/Default/BannerCategories/index.ctp:7
+#: Template/Default/Banners/add.ctp:7
+#: Template/Default/Banners/edit.ctp:7
+#: Template/Default/Banners/index.ctp:7
+#: Template/Default/DocumentCategories/add.ctp:7
+#: Template/Default/DocumentCategories/edit.ctp:7
+#: Template/Default/DocumentCategories/index.ctp:7
+#: Template/Default/Documents/add.ctp:7
+#: Template/Default/Documents/edit.ctp:7
+#: Template/Default/Documents/index.ctp:7
+#: Template/Default/FaqCategories/add.ctp:7
+#: Template/Default/FaqCategories/edit.ctp:7
+#: Template/Default/FaqCategories/index.ctp:7
+#: Template/Default/FaqCategories/view.ctp:126
+#: Template/Default/Faqs/add.ctp:7
+#: Template/Default/Faqs/edit.ctp:7
+#: Template/Default/Faqs/index.ctp:7
+#: Template/Default/Faqs/view.ctp:80
+#: Template/Default/Languages/add.ctp:7
+#: Template/Default/Languages/edit.ctp:7
+#: Template/Default/Languages/index.ctp:7
+#: Template/Default/Languages/translates.ctp:7
+#: Template/Default/Newsletters/index.ctp:7
+#: Template/Default/PageCategories/add.ctp:7
+#: Template/Default/PageCategories/edit.ctp:7
+#: Template/Default/PageCategories/index.ctp:7
+#: Template/Default/PageCategories/view.ctp:114
+#: Template/Default/Pages/add.ctp:7
+#: Template/Default/Pages/edit.ctp:7
+#: Template/Default/Pages/index.ctp:7
+#: Template/Default/Pages/view.ctp:76
+#: Template/Default/Pos/index.ctp:7
+#: Template/Default/Roles/add.ctp:7
+#: Template/Default/Roles/edit.ctp:7
+#: Template/Default/Roles/index.ctp:7
+#: Template/Default/Roles/permission.ctp:7
+#: Template/Default/Settings/edit.ctp:7
+#: Template/Default/Users/add.ctp:7
+#: Template/Default/Users/edit.ctp:7
+#: Template/Default/Users/index.ctp:7
+#: Template/Element/header.ctp:76
+msgid "Home"
+msgstr "Trang chủ"
+
+#: Template/Default/ArticleCategories/add.ctp:8;19
+#: Template/Default/ArticleCategories/edit.ctp:8;19
+#: Template/Default/ArticleCategories/index.ctp:8
+msgid "Category Article"
+msgstr "Danh mục bài viết"
+
+#: Template/Default/ArticleCategories/add.ctp:21
+msgid "Add Category Article"
+msgstr "Thêm danh mục bài viết"
+
+#: Template/Default/ArticleCategories/add.ctp:73
+#: Template/Default/ArticleCategories/edit.ctp:110
+#: Template/Default/Articles/add.ctp:99
+#: Template/Default/Articles/edit.ctp:136
+#: Template/Default/BannerCategories/add.ctp:73
+#: Template/Default/BannerCategories/edit.ctp:108
+#: Template/Default/Banners/add.ctp:85
+#: Template/Default/Banners/edit.ctp:122
+#: Template/Default/DocumentCategories/add.ctp:73
+#: Template/Default/DocumentCategories/edit.ctp:108
+#: Template/Default/Documents/add.ctp:98
+#: Template/Default/Documents/edit.ctp:163
+#: Template/Default/FaqCategories/add.ctp:73
+#: Template/Default/FaqCategories/edit.ctp:110
+#: Template/Default/Faqs/add.ctp:99
+#: Template/Default/Faqs/edit.ctp:136
+#: Template/Default/Languages/add.ctp:69
+#: Template/Default/Languages/edit.ctp:105
+#: Template/Default/PageCategories/add.ctp:73
+#: Template/Default/PageCategories/edit.ctp:110
+#: Template/Default/Pages/add.ctp:101
+#: Template/Default/Pages/edit.ctp:137
+#: Template/Default/Roles/add.ctp:54
+#: Template/Default/Roles/edit.ctp:60
+#: Template/Default/Roles/permission.ctp:62
+#: Template/Default/Settings/add.ctp:67
+#: Template/Default/Settings/edit.ctp:212
+#: Template/Default/Users/add.ctp:114
+#: Template/Default/Users/edit.ctp:151
+msgid "Submit"
+msgstr "Submit"
+
+#: Template/Default/ArticleCategories/add.ctp:74
+#: Template/Default/ArticleCategories/edit.ctp:111
+#: Template/Default/Articles/add.ctp:100
+#: Template/Default/Articles/edit.ctp:137
+#: Template/Default/BannerCategories/add.ctp:74
+#: Template/Default/BannerCategories/edit.ctp:109
+#: Template/Default/Banners/add.ctp:86
+#: Template/Default/Banners/edit.ctp:123
+#: Template/Default/DocumentCategories/add.ctp:74
+#: Template/Default/DocumentCategories/edit.ctp:109
+#: Template/Default/Documents/add.ctp:99
+#: Template/Default/Documents/edit.ctp:164
+#: Template/Default/FaqCategories/add.ctp:74
+#: Template/Default/FaqCategories/edit.ctp:111
+#: Template/Default/Faqs/add.ctp:100
+#: Template/Default/Faqs/edit.ctp:137
+#: Template/Default/Languages/edit.ctp:106
+#: Template/Default/PageCategories/add.ctp:74
+#: Template/Default/PageCategories/edit.ctp:111
+#: Template/Default/Pages/add.ctp:102
+#: Template/Default/Pages/edit.ctp:138
+#: Template/Default/Roles/add.ctp:55
+#: Template/Default/Roles/edit.ctp:61
+#: Template/Default/Roles/permission.ctp:63
+#: Template/Default/Settings/edit.ctp:213
+#: Template/Default/Users/add.ctp:115
+#: Template/Default/Users/edit.ctp:152
+msgid "Cancel"
+msgstr "Huỷ"
+
+#: Template/Default/ArticleCategories/edit.ctp:22
+msgid "Edit Category Article"
+msgstr "Sửa danh mục tin tức"
+
+#: Template/Default/ArticleCategories/edit.ctp:27
+#: Template/Default/ArticleCategories/view.ctp:11;104;153
+#: Template/Default/Articles/edit.ctp:27
+#: Template/Default/Articles/view.ctp:11
+#: Template/Default/BannerCategories/edit.ctp:27
+#: Template/Default/BannerCategories/view.ctp:11;86;125
+#: Template/Default/Banners/edit.ctp:27
+#: Template/Default/Banners/view.ctp:11;86;125
+#: Template/Default/DocumentCategories/edit.ctp:27
+#: Template/Default/DocumentCategories/view.ctp:11;86;125
+#: Template/Default/Documents/edit.ctp:27
+#: Template/Default/Documents/view.ctp:11;86;125
+#: Template/Default/FaqCategories/edit.ctp:27
+#: Template/Default/FaqCategories/view.ctp:11;104;153
+#: Template/Default/Faqs/edit.ctp:27
+#: Template/Default/Faqs/view.ctp:11
+#: Template/Default/Languages/edit.ctp:27
+#: Template/Default/Languages/view.ctp:11
+#: Template/Default/PageCategories/edit.ctp:27
+#: Template/Default/PageCategories/view.ctp:11;92;141
+#: Template/Default/Pages/edit.ctp:27
+#: Template/Default/Pages/view.ctp:11
+#: Template/Default/Roles/edit.ctp:27
+#: Template/Default/Roles/view.ctp:11;118
+#: Template/Default/Settings/index.ctp:125
+#: Template/Default/Settings/view.ctp:11
+#: Template/Default/Users/edit.ctp:27
+#: Template/Default/Users/view.ctp:11
+#: Template/Element/Core/action.ctp:10
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Are you sure you want to delete # {0}?"
+
+#: Template/Default/ArticleCategories/index.ctp:9
+#: Template/Default/Articles/index.ctp:9
+#: Template/Default/BannerCategories/index.ctp:9
+#: Template/Default/Banners/index.ctp:9
+#: Template/Default/DocumentCategories/index.ctp:9
+#: Template/Default/Documents/index.ctp:9
+#: Template/Default/FaqCategories/index.ctp:9
+#: Template/Default/Faqs/index.ctp:9
+#: Template/Default/Languages/index.ctp:9
+#: Template/Default/Languages/translates.ctp:9
+#: Template/Default/Newsletters/index.ctp:9
+#: Template/Default/PageCategories/index.ctp:9
+#: Template/Default/Pages/index.ctp:9
+#: Template/Default/Pos/index.ctp:9
+#: Template/Default/Roles/index.ctp:9
+#: Template/Default/Users/index.ctp:9
+msgid "Manage"
+msgstr "Quản lý"
+
+#: Template/Default/ArticleCategories/index.ctp:19
+msgid "Category Article Manager"
+msgstr "Quản lý danh mục bài viết"
+
+#: Template/Default/ArticleCategories/index.ctp:20
+msgid "All category article"
+msgstr "All category article"
+
+#: Template/Default/ArticleCategories/index.ctp:61
+#: Template/Default/ArticleCategories/view.ctp:34;78;119
+#: Template/Default/Articles/index.ctp:61
+#: Template/Default/Articles/view.ctp:32
+#: Template/Default/BannerCategories/index.ctp:61
+#: Template/Default/BannerCategories/view.ctp:30;65;101
+#: Template/Default/Banners/index.ctp:82
+#: Template/Default/Banners/view.ctp:30;65;101
+#: Template/Default/DocumentCategories/index.ctp:61
+#: Template/Default/DocumentCategories/view.ctp:30;65;101
+#: Template/Default/Documents/view.ctp:30;65;101
+#: Template/Default/FaqCategories/index.ctp:61
+#: Template/Default/FaqCategories/view.ctp:34;78;119
+#: Template/Default/Faqs/index.ctp:61
+#: Template/Default/Faqs/view.ctp:32
+#: Template/Default/Languages/view.ctp:32
+#: Template/Default/PageCategories/index.ctp:61
+#: Template/Default/PageCategories/view.ctp:30;69;107
+#: Template/Default/Pages/index.ctp:61
+#: Template/Default/Pages/view.ctp:32
+#: Template/Default/Roles/view.ctp:68
+#: Template/Default/Settings/view.ctp:26
+#: Template/Default/Users/index.ctp:61
+#: Template/Default/Users/view.ctp:48
+msgid "Image"
+msgstr "Image"
+
+#: Template/Default/ArticleCategories/index.ctp:62
+#: Template/Default/BannerCategories/index.ctp:62
+#: Template/Default/DocumentCategories/index.ctp:62
+#: Template/Default/FaqCategories/index.ctp:62
+#: Template/Default/PageCategories/index.ctp:62
+msgid "Parent"
+msgstr "Parent"
+
+#: Template/Default/ArticleCategories/index.ctp:63
+#: Template/Default/Articles/index.ctp:63
+#: Template/Default/BannerCategories/index.ctp:63
+#: Template/Default/Banners/index.ctp:84
+#: Template/Default/DocumentCategories/index.ctp:63
+#: Template/Default/Documents/index.ctp:82
+#: Template/Default/FaqCategories/index.ctp:63
+#: Template/Default/Faqs/index.ctp:63
+#: Template/Default/Newsletters/index.ctp:27
+#: Template/Default/PageCategories/index.ctp:63
+#: Template/Default/Pages/index.ctp:63
+#: Template/Default/Roles/index.ctp:61
+#: Template/Default/Roles/view.ctp:22
+#: Template/Default/Users/index.ctp:63
+msgid "Name"
+msgstr "Name"
+
+#: Template/Default/ArticleCategories/index.ctp:64
+#: Template/Default/ArticleCategories/view.ctp:62;80;125
+#: Template/Default/Articles/index.ctp:64
+#: Template/Default/Articles/view.ctp:76
+#: Template/Default/BannerCategories/index.ctp:64
+#: Template/Default/BannerCategories/view.ctp:54;66;104
+#: Template/Default/Banners/index.ctp:85
+#: Template/Default/Banners/view.ctp:54;66;104
+#: Template/Default/DocumentCategories/index.ctp:64
+#: Template/Default/DocumentCategories/view.ctp:54;66;104
+#: Template/Default/Documents/index.ctp:84
+#: Template/Default/Documents/view.ctp:54;66;104
+#: Template/Default/FaqCategories/index.ctp:64
+#: Template/Default/FaqCategories/view.ctp:62;80;125
+#: Template/Default/Faqs/index.ctp:64
+#: Template/Default/Faqs/view.ctp:76
+#: Template/Default/Languages/view.ctp:44
+#: Template/Default/PageCategories/index.ctp:64
+#: Template/Default/PageCategories/view.ctp:54;70;113
+#: Template/Default/Pages/index.ctp:64
+#: Template/Default/Pages/view.ctp:72
+#: Template/Default/Roles/view.ctp:42;69
+#: Template/Default/Settings/view.ctp:206
+#: Template/Default/Users/index.ctp:65
+#: Template/Default/Users/view.ctp:112
+msgid "Status"
+msgstr "Status"
+
+#: Template/Default/ArticleCategories/index.ctp:65
+#: Template/Default/Articles/index.ctp:65
+#: Template/Default/BannerCategories/index.ctp:65
+#: Template/Default/Banners/index.ctp:86
+#: Template/Default/DocumentCategories/index.ctp:65
+#: Template/Default/Documents/index.ctp:85
+#: Template/Default/FaqCategories/index.ctp:65
+#: Template/Default/Faqs/index.ctp:65
+#: Template/Default/Languages/add.ctp:8;19
+#: Template/Default/Languages/edit.ctp:8;19
+#: Template/Default/Languages/index.ctp:8
+#: Template/Default/Languages/translates.ctp:8
+#: Template/Default/PageCategories/index.ctp:65
+#: Template/Default/Pages/index.ctp:65
+#: Template/Default/Settings/view.ctp:22
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: Template/Default/ArticleCategories/index.ctp:66
+#: Template/Default/Articles/index.ctp:66
+#: Template/Default/BannerCategories/index.ctp:66
+#: Template/Default/Banners/index.ctp:88
+#: Template/Default/DocumentCategories/index.ctp:66
+#: Template/Default/Documents/index.ctp:87
+#: Template/Default/FaqCategories/index.ctp:66
+#: Template/Default/Faqs/index.ctp:66
+#: Template/Default/Newsletters/index.ctp:30
+#: Template/Default/PageCategories/index.ctp:66
+#: Template/Default/Pages/index.ctp:66
+#: Template/Default/Roles/index.ctp:65
+#: Template/Default/Users/index.ctp:66
+msgid "Action"
+msgstr "Action"
+
+#: Template/Default/ArticleCategories/view.ctp:9;86;131
+#: Template/Default/Articles/view.ctp:9
+#: Template/Default/BannerCategories/view.ctp:9;71;108
+#: Template/Default/Banners/view.ctp:9;71;108
+#: Template/Default/DocumentCategories/view.ctp:9;71;108
+#: Template/Default/Documents/view.ctp:9;71;108
+#: Template/Default/FaqCategories/view.ctp:9;86;131
+#: Template/Default/Faqs/view.ctp:9
+#: Template/Default/Languages/index.ctp:46
+#: Template/Default/Languages/view.ctp:9
+#: Template/Default/PageCategories/view.ctp:9;76;119
+#: Template/Default/Pages/view.ctp:9
+#: Template/Default/Pos/index.ctp:28
+#: Template/Default/Roles/view.ctp:9;85
+#: Template/Default/Settings/add.ctp:9
+#: Template/Default/Settings/index.ctp:9;68
+#: Template/Default/Settings/view.ctp:9
+#: Template/Default/Users/view.ctp:9
+msgid "Actions"
+msgstr "Actions"
+
+#: Template/Default/ArticleCategories/view.ctp:10
+msgid "Edit Article Category"
+msgstr "Sửa danh mục bài viết"
+
+#: Template/Default/ArticleCategories/view.ctp:11
+msgid "Delete Article Category"
+msgstr "Delete Article Category"
+
+#: Template/Default/ArticleCategories/view.ctp:12
+#: Template/Default/Articles/view.ctp:14
+msgid "List Article Categories"
+msgstr "List Article Categories"
+
+#: Template/Default/ArticleCategories/view.ctp:13
+#: Template/Default/Articles/view.ctp:15
+msgid "New Article Category"
+msgstr "New Article Category"
+
+#: Template/Default/ArticleCategories/view.ctp:14
+msgid "List Parent Article Categories"
+msgstr "List Parent Article Categories"
+
+#: Template/Default/ArticleCategories/view.ctp:15
+msgid "New Parent Article Category"
+msgstr "New Parent Article Category"
+
+#: Template/Default/ArticleCategories/view.ctp:16
+msgid "List Child Article Categories"
+msgstr "List Child Article Categories"
+
+#: Template/Default/ArticleCategories/view.ctp:17
+msgid "New Child Article Category"
+msgstr "New Child Article Category"
+
+#: Template/Default/ArticleCategories/view.ctp:18
+#: Template/Default/Articles/view.ctp:12
+msgid "List Articles"
+msgstr "List Articles"
+
+#: Template/Default/ArticleCategories/view.ctp:19
+#: Template/Default/Articles/view.ctp:13
+msgid "New Article"
+msgstr "New Article"
+
+#: Template/Default/ArticleCategories/view.ctp:26
+msgid "Parent Article Category"
+msgstr "Parent Article Category"
+
+#: Template/Default/ArticleCategories/view.ctp:30;77
+#: Template/Default/FaqCategories/view.ctp:30;77
+msgid "Type"
+msgstr "Type"
+
+#: Template/Default/ArticleCategories/view.ctp:38;75;116
+#: Template/Default/Articles/view.ctp:44
+#: Template/Default/BannerCategories/view.ctp:34;63;98
+#: Template/Default/Banners/view.ctp:34;63;98
+#: Template/Default/DocumentCategories/view.ctp:34;63;98
+#: Template/Default/Documents/view.ctp:34;63;98
+#: Template/Default/FaqCategories/view.ctp:38;75;116
+#: Template/Default/Faqs/view.ctp:44
+#: Template/Default/Languages/view.ctp:20
+#: Template/Default/PageCategories/view.ctp:34;67;104
+#: Template/Default/Pages/view.ctp:44
+#: Template/Default/Roles/view.ctp:38;59
+#: Template/Default/Settings/view.ctp:158
+#: Template/Default/Users/view.ctp:84
+msgid "Id"
+msgstr "Id"
+
+#: Template/Default/ArticleCategories/view.ctp:42;79;124
+#: Template/Default/Articles/view.ctp:60
+#: Template/Default/FaqCategories/view.ctp:42;79;124
+#: Template/Default/Faqs/view.ctp:60
+#: Template/Default/PageCategories/view.ctp:112
+#: Template/Default/Pages/view.ctp:60
+msgid "Order"
+msgstr "Order"
+
+#: Template/Default/ArticleCategories/view.ctp:46;81
+#: Template/Default/BannerCategories/view.ctp:38;67
+#: Template/Default/Banners/view.ctp:38;67
+#: Template/Default/DocumentCategories/view.ctp:38;67
+#: Template/Default/Documents/view.ctp:38;67
+#: Template/Default/FaqCategories/view.ctp:46;81
+#: Template/Default/PageCategories/view.ctp:38;71
+msgid "Lft"
+msgstr "Lft"
+
+#: Template/Default/ArticleCategories/view.ctp:50;82
+#: Template/Default/BannerCategories/view.ctp:42;68
+#: Template/Default/Banners/view.ctp:42;68
+#: Template/Default/DocumentCategories/view.ctp:42;68
+#: Template/Default/Documents/view.ctp:42;68
+#: Template/Default/FaqCategories/view.ctp:50;82
+#: Template/Default/PageCategories/view.ctp:42;72
+msgid "Rght"
+msgstr "Rght"
+
+#: Template/Default/ArticleCategories/view.ctp:54;83;129
+#: Template/Default/Articles/view.ctp:68
+#: Template/Default/BannerCategories/view.ctp:46;69;106
+#: Template/Default/Banners/view.ctp:46;69;106
+#: Template/Default/DocumentCategories/view.ctp:46;69;106
+#: Template/Default/Documents/view.ctp:46;69;106
+#: Template/Default/FaqCategories/view.ctp:54;83;129
+#: Template/Default/Faqs/view.ctp:68
+#: Template/Default/Languages/view.ctp:36
+#: Template/Default/Newsletters/index.ctp:29
+#: Template/Default/PageCategories/view.ctp:46;73;117
+#: Template/Default/Pages/view.ctp:64
+#: Template/Default/Roles/view.ctp:46;83
+#: Template/Default/Settings/view.ctp:194
+#: Template/Default/Users/view.ctp:100
+msgid "Created"
+msgstr "Đã tạo"
+
+#: Template/Default/ArticleCategories/view.ctp:58;84;130
+#: Template/Default/Articles/view.ctp:72
+#: Template/Default/BannerCategories/view.ctp:50;70;107
+#: Template/Default/Banners/view.ctp:50;70;107
+#: Template/Default/DocumentCategories/view.ctp:50;70;107
+#: Template/Default/Documents/view.ctp:50;70;107
+#: Template/Default/FaqCategories/view.ctp:58;84;130
+#: Template/Default/Faqs/view.ctp:72
+#: Template/Default/Languages/view.ctp:40
+#: Template/Default/PageCategories/view.ctp:50;74;118
+#: Template/Default/Pages/view.ctp:68
+#: Template/Default/Roles/view.ctp:50;84
+#: Template/Default/Settings/view.ctp:198
+#: Template/Default/Users/view.ctp:104
+msgid "Modified"
+msgstr "Modified"
+
+#: Template/Default/ArticleCategories/view.ctp:63
+#: Template/Default/Articles/view.ctp:77;81
+#: Template/Default/BannerCategories/view.ctp:55
+#: Template/Default/Banners/view.ctp:55
+#: Template/Default/DocumentCategories/view.ctp:55
+#: Template/Default/Documents/view.ctp:55
+#: Template/Default/FaqCategories/view.ctp:63
+#: Template/Default/Faqs/view.ctp:77;81
+#: Template/Default/Languages/view.ctp:45
+#: Template/Default/PageCategories/view.ctp:55
+#: Template/Default/Pages/view.ctp:73;77;81
+#: Template/Default/Settings/view.ctp:203;207;211
+#: Template/Default/Users/view.ctp:109;113;117;121
+msgid "Yes"
+msgstr "Yes"
+
+#: Template/Default/ArticleCategories/view.ctp:63
+#: Template/Default/Articles/view.ctp:77;81
+#: Template/Default/BannerCategories/view.ctp:55
+#: Template/Default/Banners/view.ctp:55
+#: Template/Default/DocumentCategories/view.ctp:55
+#: Template/Default/Documents/view.ctp:55
+#: Template/Default/FaqCategories/view.ctp:63
+#: Template/Default/Faqs/view.ctp:77;81
+#: Template/Default/Languages/view.ctp:45
+#: Template/Default/PageCategories/view.ctp:55
+#: Template/Default/Pages/view.ctp:73;77;81
+#: Template/Default/Settings/view.ctp:203;207;211
+#: Template/Default/Users/view.ctp:109;113;117;121
+msgid "No"
+msgstr "No"
+
+#: Template/Default/ArticleCategories/view.ctp:67;85
+#: Template/Default/FaqCategories/view.ctp:67;85
+#: Template/Default/PageCategories/view.ctp:59;75
+msgid "Allowed Fields"
+msgstr "Allowed Fields"
+
+#: Template/Default/ArticleCategories/view.ctp:71
+msgid "Related Article Categories"
+msgstr "Related Article Categories"
+
+#: Template/Default/ArticleCategories/view.ctp:76
+#: Template/Default/BannerCategories/view.ctp:64
+#: Template/Default/Banners/view.ctp:64
+#: Template/Default/DocumentCategories/view.ctp:64
+#: Template/Default/Documents/view.ctp:64
+#: Template/Default/FaqCategories/view.ctp:76
+#: Template/Default/PageCategories/view.ctp:68
+msgid "Parent Id"
+msgstr "Parent Id"
+
+#: Template/Default/ArticleCategories/view.ctp:102;151
+#: Template/Default/BannerCategories/view.ctp:84;123
+#: Template/Default/Banners/view.ctp:84;123
+#: Template/Default/DocumentCategories/view.ctp:84;123
+#: Template/Default/Documents/view.ctp:84;123
+#: Template/Default/FaqCategories/view.ctp:102;151
+#: Template/Default/PageCategories/view.ctp:90;139
+#: Template/Default/Roles/view.ctp:116
+#: Template/Default/Settings/index.ctp:123
+msgid "View"
+msgstr "View"
+
+#: Template/Default/ArticleCategories/view.ctp:112
+msgid "Related Articles"
+msgstr "Related Articles"
+
+#: Template/Default/ArticleCategories/view.ctp:117
+msgid "Article Category Id"
+msgstr "Article Category Id"
+
+#: Template/Default/ArticleCategories/view.ctp:118
+#: Template/Default/BannerCategories/view.ctp:100
+#: Template/Default/Banners/view.ctp:100
+#: Template/Default/DocumentCategories/view.ctp:100
+#: Template/Default/Documents/view.ctp:100
+#: Template/Default/FaqCategories/view.ctp:118
+#: Template/Default/PageCategories/view.ctp:106
+msgid "User Id"
+msgstr "User Id"
+
+#: Template/Default/ArticleCategories/view.ctp:120
+#: Template/Default/Articles/view.ctp:36
+#: Template/Default/BannerCategories/view.ctp:102
+#: Template/Default/Banners/view.ctp:102
+#: Template/Default/DocumentCategories/view.ctp:102
+#: Template/Default/Documents/view.ctp:102
+#: Template/Default/FaqCategories/view.ctp:120
+#: Template/Default/Faqs/view.ctp:36
+#: Template/Default/PageCategories/view.ctp:108
+#: Template/Default/Pages/view.ctp:36
+msgid "Image List"
+msgstr "Image List"
+
+#: Template/Default/ArticleCategories/view.ctp:121
+#: Template/Default/Articles/view.ctp:48
+#: Template/Default/FaqCategories/view.ctp:121
+#: Template/Default/Faqs/view.ctp:48
+#: Template/Default/PageCategories/view.ctp:109
+#: Template/Default/Pages/view.ctp:48
+msgid "View Count"
+msgstr "View Count"
+
+#: Template/Default/ArticleCategories/view.ctp:122
+#: Template/Default/Articles/view.ctp:52
+#: Template/Default/FaqCategories/view.ctp:122
+#: Template/Default/Faqs/view.ctp:52
+#: Template/Default/PageCategories/view.ctp:110
+#: Template/Default/Pages/view.ctp:52
+msgid "Comment Count"
+msgstr "Comment Count"
+
+#: Template/Default/ArticleCategories/view.ctp:123
+#: Template/Default/Articles/view.ctp:56
+#: Template/Default/FaqCategories/view.ctp:123
+#: Template/Default/Faqs/view.ctp:56
+#: Template/Default/PageCategories/view.ctp:111
+#: Template/Default/Pages/view.ctp:56
+msgid "Allow Comment"
+msgstr "Allow Comment"
+
+#: Template/Default/ArticleCategories/view.ctp:127
+#: Template/Default/Articles/view.ctp:64
+#: Template/Default/BannerCategories/view.ctp:105
+#: Template/Default/Banners/view.ctp:105
+#: Template/Default/DocumentCategories/view.ctp:105
+#: Template/Default/Documents/view.ctp:105
+#: Template/Default/FaqCategories/view.ctp:127
+#: Template/Default/Faqs/view.ctp:64
+#: Template/Default/PageCategories/view.ctp:115
+#: Template/Default/Pages/view.ctp:80
+msgid "Featured"
+msgstr "Featured"
+
+#: Template/Default/ArticleCategories/view.ctp:128
+#: Template/Default/Articles/view.ctp:40
+#: Template/Default/FaqCategories/view.ctp:128
+#: Template/Default/Faqs/view.ctp:40
+#: Template/Default/PageCategories/view.ctp:116
+#: Template/Default/Pages/view.ctp:40
+msgid "Tag"
+msgstr "Tag"
+
+#: Template/Default/Articles/add.ctp:8;19
+#: Template/Default/Articles/edit.ctp:8;19
+#: Template/Default/Articles/index.ctp:8
+msgid "Article"
+msgstr "Bài viết"
+
+#: Template/Default/Articles/add.ctp:21
+#: Template/Element/menu.ctp:127
+msgid "Add Article"
+msgstr "Thêm bài viết"
+
+#: Template/Default/Articles/edit.ctp:22
+#: Template/Default/Articles/view.ctp:10
+msgid "Edit Article"
+msgstr "Sửa bài viết"
+
+#: Template/Default/Articles/index.ctp:19
+msgid "Article Manager"
+msgstr "Quản lý bài viết"
+
+#: Template/Default/Articles/index.ctp:20
+msgid "All article"
+msgstr "Tất cả bài viết"
+
+#: Template/Default/Articles/index.ctp:62
+#: Template/Default/Banners/index.ctp:83
+#: Template/Default/Documents/index.ctp:83
+#: Template/Default/Faqs/index.ctp:62
+#: Template/Default/Pages/index.ctp:62
+msgid "Category"
+msgstr "Danh mục"
+
+#: Template/Default/Articles/view.ctp:11
+msgid "Delete Article"
+msgstr "Xoá bài viết"
+
+#: Template/Default/Articles/view.ctp:16
+#: Template/Default/Faqs/view.ctp:16
+#: Template/Default/Pages/view.ctp:16
+#: Template/Default/Roles/view.ctp:14
+#: Template/Default/Users/view.ctp:12
+msgid "List Users"
+msgstr "List Users"
+
+#: Template/Default/Articles/view.ctp:17
+#: Template/Default/Faqs/view.ctp:17
+#: Template/Default/Pages/view.ctp:17
+#: Template/Default/Roles/view.ctp:15
+#: Template/Default/Users/view.ctp:13
+msgid "New User"
+msgstr "New User"
+
+#: Template/Default/Articles/view.ctp:24
+msgid "Article Category"
+msgstr "Article Category"
+
+#: Template/Default/Articles/view.ctp:28
+#: Template/Default/Faqs/view.ctp:28
+#: Template/Default/Pages/view.ctp:28
+#: Template/Default/Users/add.ctp:8;19
+#: Template/Default/Users/edit.ctp:8
+#: Template/Default/Users/index.ctp:8
+msgid "User"
+msgstr "Thành viên"
+
+#: Template/Default/BannerCategories/add.ctp:8;19
+#: Template/Default/BannerCategories/edit.ctp:8;19
+#: Template/Default/BannerCategories/index.ctp:8
+msgid "Category Banner"
+msgstr "Danh mục banner"
+
+#: Template/Default/BannerCategories/add.ctp:21
+msgid "Add Category Banner"
+msgstr "Thêm danh mục Banner"
+
+#: Template/Default/BannerCategories/edit.ctp:22
+msgid "Edit Category Banner"
+msgstr "Sửa danh mục banner"
+
+#: Template/Default/BannerCategories/index.ctp:19
+msgid "Category Banner Manager"
+msgstr "Quản lý danh mục banner"
+
+#: Template/Default/BannerCategories/index.ctp:20
+msgid "All category banner"
+msgstr "All category banner"
+
+#: Template/Default/BannerCategories/view.ctp:10
+#: Template/Default/Banners/view.ctp:10
+msgid "Edit Banner Category"
+msgstr "Sửa danh mục banner"
+
+#: Template/Default/BannerCategories/view.ctp:11
+#: Template/Default/Banners/view.ctp:11
+msgid "Delete Banner Category"
+msgstr "Delete Banner Category"
+
+#: Template/Default/BannerCategories/view.ctp:12
+#: Template/Default/Banners/view.ctp:12
+msgid "List Banner Categories"
+msgstr "List Banner Categories"
+
+#: Template/Default/BannerCategories/view.ctp:13
+#: Template/Default/Banners/view.ctp:13
+msgid "New Banner Category"
+msgstr "New Banner Category"
+
+#: Template/Default/BannerCategories/view.ctp:14
+#: Template/Default/Banners/view.ctp:14
+msgid "List Parent Banner Categories"
+msgstr "List Parent Banner Categories"
+
+#: Template/Default/BannerCategories/view.ctp:15
+#: Template/Default/Banners/view.ctp:15
+msgid "New Parent Banner Category"
+msgstr "New Parent Banner Category"
+
+#: Template/Default/BannerCategories/view.ctp:16
+#: Template/Default/Banners/view.ctp:16
+msgid "List Child Banner Categories"
+msgstr "List Child Banner Categories"
+
+#: Template/Default/BannerCategories/view.ctp:17
+#: Template/Default/Banners/view.ctp:17
+msgid "New Child Banner Category"
+msgstr "New Child Banner Category"
+
+#: Template/Default/BannerCategories/view.ctp:18
+#: Template/Default/Banners/view.ctp:18
+msgid "List Banners"
+msgstr "List Banners"
+
+#: Template/Default/BannerCategories/view.ctp:19
+#: Template/Default/Banners/view.ctp:19
+msgid "New Banner"
+msgstr "New Banner"
+
+#: Template/Default/BannerCategories/view.ctp:26
+#: Template/Default/Banners/view.ctp:26
+msgid "Parent Banner Category"
+msgstr "Parent Banner Category"
+
+#: Template/Default/BannerCategories/view.ctp:59
+#: Template/Default/Banners/view.ctp:59
+msgid "Related Banner Categories"
+msgstr "Related Banner Categories"
+
+#: Template/Default/BannerCategories/view.ctp:94
+#: Template/Default/Banners/view.ctp:94
+msgid "Related Banners"
+msgstr "Related Banners"
+
+#: Template/Default/BannerCategories/view.ctp:99
+#: Template/Default/Banners/view.ctp:99
+msgid "Banner Category Id"
+msgstr "Banner Category Id"
+
+#: Template/Default/BannerCategories/view.ctp:103
+#: Template/Default/Banners/index.ctp:87
+#: Template/Default/Banners/view.ctp:103
+#: Template/Default/DocumentCategories/view.ctp:103
+#: Template/Default/Documents/index.ctp:86
+#: Template/Default/Documents/view.ctp:103
+msgid "Sort"
+msgstr "Sort"
+
+#: Template/Default/Banners/add.ctp:8;19
+#: Template/Default/Banners/edit.ctp:8;19
+#: Template/Default/Banners/index.ctp:8
+msgid "Banner"
+msgstr "Banner"
+
+#: Template/Default/Banners/add.ctp:21
+#: Template/Element/menu.ctp:21
+msgid "Add Banner"
+msgstr "Thêm bảng nội dung"
+
+#: Template/Default/Banners/edit.ctp:22
+msgid "Edit Banner"
+msgstr "Sửa Banner"
+
+#: Template/Default/Banners/index.ctp:19
+msgid "Banner Manager"
+msgstr "Quản lý bảng nội dung"
+
+#: Template/Default/Banners/index.ctp:20
+msgid "All banner"
+msgstr "All banner"
+
+#: Template/Default/DocumentCategories/add.ctp:8;19
+#: Template/Default/DocumentCategories/edit.ctp:8;19
+#: Template/Default/DocumentCategories/index.ctp:8
+msgid "Category Document"
+msgstr "Danh mục tài liệu"
+
+#: Template/Default/DocumentCategories/add.ctp:21
+msgid "Add Category Document"
+msgstr "Thêm danh mục tài liệu"
+
+#: Template/Default/DocumentCategories/edit.ctp:22
+msgid "Edit Category Document"
+msgstr "Sửa danh mục tài liệu"
+
+#: Template/Default/DocumentCategories/index.ctp:19
+msgid "Category Document Manager"
+msgstr "Quản lý danh mục tài liệu"
+
+#: Template/Default/DocumentCategories/index.ctp:20
+msgid "All category document"
+msgstr "All category document"
+
+#: Template/Default/DocumentCategories/view.ctp:10
+#: Template/Default/Documents/view.ctp:10
+msgid "Edit Document Category"
+msgstr "Edit Document Category"
+
+#: Template/Default/DocumentCategories/view.ctp:11
+#: Template/Default/Documents/view.ctp:11
+msgid "Delete Document Category"
+msgstr "Delete Document Category"
+
+#: Template/Default/DocumentCategories/view.ctp:12
+#: Template/Default/Documents/view.ctp:12
+msgid "List Document Categories"
+msgstr "List Document Categories"
+
+#: Template/Default/DocumentCategories/view.ctp:13
+#: Template/Default/Documents/view.ctp:13
+msgid "New Document Category"
+msgstr "New Document Category"
+
+#: Template/Default/DocumentCategories/view.ctp:14
+#: Template/Default/Documents/view.ctp:14
+msgid "List Parent Document Categories"
+msgstr "List Parent Document Categories"
+
+#: Template/Default/DocumentCategories/view.ctp:15
+#: Template/Default/Documents/view.ctp:15
+msgid "New Parent Document Category"
+msgstr "New Parent Document Category"
+
+#: Template/Default/DocumentCategories/view.ctp:16
+#: Template/Default/Documents/view.ctp:16
+msgid "List Child Document Categories"
+msgstr "List Child Document Categories"
+
+#: Template/Default/DocumentCategories/view.ctp:17
+#: Template/Default/Documents/view.ctp:17
+msgid "New Child Document Category"
+msgstr "New Child Document Category"
+
+#: Template/Default/DocumentCategories/view.ctp:18
+#: Template/Default/Documents/view.ctp:18
+msgid "List Documents"
+msgstr "List Documents"
+
+#: Template/Default/DocumentCategories/view.ctp:19
+#: Template/Default/Documents/view.ctp:19
+msgid "New Document"
+msgstr "New Document"
+
+#: Template/Default/DocumentCategories/view.ctp:26
+#: Template/Default/Documents/view.ctp:26
+msgid "Parent Document Category"
+msgstr "Parent Document Category"
+
+#: Template/Default/DocumentCategories/view.ctp:59
+#: Template/Default/Documents/view.ctp:59
+msgid "Related Document Categories"
+msgstr "Related Document Categories"
+
+#: Template/Default/DocumentCategories/view.ctp:94
+#: Template/Default/Documents/view.ctp:94
+msgid "Related Documents"
+msgstr "Related Documents"
+
+#: Template/Default/DocumentCategories/view.ctp:99
+#: Template/Default/Documents/view.ctp:99
+msgid "Document Category Id"
+msgstr "Document Category Id"
+
+#: Template/Default/Documents/add.ctp:8;19
+#: Template/Default/Documents/edit.ctp:8;19
+#: Template/Default/Documents/index.ctp:8
+msgid "Document"
+msgstr "Tài liệu"
+
+#: Template/Default/Documents/add.ctp:21
+#: Template/Element/menu.ctp:75
+msgid "Add Document"
+msgstr "Thêm tài liệu"
+
+#: Template/Default/Documents/edit.ctp:22
+msgid "Edit Document"
+msgstr "Edit Document"
+
+#: Template/Default/Documents/edit.ctp:130
+msgid "Download File"
+msgstr "Tải tài liệu"
+
+#: Template/Default/Documents/index.ctp:19
+msgid "Document Manager"
+msgstr "Quản lý tài liệu"
+
+#: Template/Default/Documents/index.ctp:20
+msgid "All document"
+msgstr "All document"
+
+#: Template/Default/FaqCategories/add.ctp:8;19
+#: Template/Default/FaqCategories/edit.ctp:8;19
+#: Template/Default/FaqCategories/index.ctp:8
+msgid "Category Faq"
+msgstr "Danh mục hỏi đáp"
+
+#: Template/Default/FaqCategories/add.ctp:21
+msgid "Add Category Faq"
+msgstr "Thêm danh mục hỏi đáp"
+
+#: Template/Default/FaqCategories/edit.ctp:22
+msgid "Edit Category Faq"
+msgstr "Edit Category Faq"
+
+#: Template/Default/FaqCategories/index.ctp:19
+msgid "Category Faq Manager"
+msgstr "Quản lý danh mục hỏi đáp"
+
+#: Template/Default/FaqCategories/index.ctp:20
+msgid "All category faq"
+msgstr "All category faq"
+
+#: Template/Default/FaqCategories/view.ctp:10
+msgid "Edit Faq Category"
+msgstr "Edit Faq Category"
+
+#: Template/Default/FaqCategories/view.ctp:11
+msgid "Delete Faq Category"
+msgstr "Delete Faq Category"
+
+#: Template/Default/FaqCategories/view.ctp:12
+#: Template/Default/Faqs/view.ctp:14
+msgid "List Faq Categories"
+msgstr "List Faq Categories"
+
+#: Template/Default/FaqCategories/view.ctp:13
+#: Template/Default/Faqs/view.ctp:15
+msgid "New Faq Category"
+msgstr "New Faq Category"
+
+#: Template/Default/FaqCategories/view.ctp:14
+msgid "List Parent Faq Categories"
+msgstr "List Parent Faq Categories"
+
+#: Template/Default/FaqCategories/view.ctp:15
+msgid "New Parent Faq Category"
+msgstr "New Parent Faq Category"
+
+#: Template/Default/FaqCategories/view.ctp:16
+msgid "List Child Faq Categories"
+msgstr "List Child Faq Categories"
+
+#: Template/Default/FaqCategories/view.ctp:17
+msgid "New Child Faq Category"
+msgstr "New Child Faq Category"
+
+#: Template/Default/FaqCategories/view.ctp:18
+#: Template/Default/Faqs/view.ctp:12
+msgid "List Faqs"
+msgstr "List Faqs"
+
+#: Template/Default/FaqCategories/view.ctp:19
+#: Template/Default/Faqs/view.ctp:13
+msgid "New Faq"
+msgstr "New Faq"
+
+#: Template/Default/FaqCategories/view.ctp:26
+msgid "Parent Faq Category"
+msgstr "Parent Faq Category"
+
+#: Template/Default/FaqCategories/view.ctp:71
+msgid "Related Faq Categories"
+msgstr "Related Faq Categories"
+
+#: Template/Default/FaqCategories/view.ctp:112
+msgid "Related Faqs"
+msgstr "Related Faqs"
+
+#: Template/Default/FaqCategories/view.ctp:117
+msgid "Faq Category Id"
+msgstr "Faq Category Id"
+
+#: Template/Default/Faqs/add.ctp:8;19
+#: Template/Default/Faqs/edit.ctp:8;19
+#: Template/Default/Faqs/index.ctp:8
+msgid "Faq"
+msgstr "Hỏi đáp"
+
+#: Template/Default/Faqs/add.ctp:21
+#: Template/Element/menu.ctp:233
+msgid "Add Faq"
+msgstr "Thêm hỏi đáp"
+
+#: Template/Default/Faqs/edit.ctp:22
+#: Template/Default/Faqs/view.ctp:10
+msgid "Edit Faq"
+msgstr "Edit Faq"
+
+#: Template/Default/Faqs/index.ctp:19
+msgid "Faq Manager"
+msgstr "Quản lý hỏi đáp"
+
+#: Template/Default/Faqs/index.ctp:20
+msgid "All faq"
+msgstr "All faq"
+
+#: Template/Default/Faqs/view.ctp:11
+msgid "Delete Faq"
+msgstr "Delete Faq"
+
+#: Template/Default/Faqs/view.ctp:24
+msgid "Faq Category"
+msgstr "Faq Category"
+
+#: Template/Default/Languages/add.ctp:21
+msgid "Add Language"
+msgstr "Thêm ngôn ngữ"
+
+#: Template/Default/Languages/edit.ctp:22
+#: Template/Default/Languages/view.ctp:10
+msgid "Edit Language"
+msgstr "Edit Language"
+
+#: Template/Default/Languages/index.ctp:19
+#: Template/Default/Languages/translates.ctp:19
+msgid "Language Manager"
+msgstr "Quản lý ngôn ngữ"
+
+#: Template/Default/Languages/index.ctp:20
+#: Template/Default/Languages/translates.ctp:20
+msgid "All Language"
+msgstr "All Language"
+
+#: Template/Default/Languages/translates.ctp:56;62
+msgid "Update"
+msgstr "Update"
+
+#: Template/Default/Languages/view.ctp:11
+msgid "Delete Language"
+msgstr "Delete Language"
+
+#: Template/Default/Languages/view.ctp:12
+#: Template/Default/Settings/add.ctp:11
+#: Template/Default/Settings/index.ctp:11
+#: Template/Default/Settings/view.ctp:14
+msgid "List Languages"
+msgstr "List Languages"
+
+#: Template/Default/Languages/view.ctp:13
+#: Template/Default/Settings/add.ctp:12
+#: Template/Default/Settings/index.ctp:12
+#: Template/Default/Settings/view.ctp:15
+msgid "New Language"
+msgstr "New Language"
+
+#: Template/Default/Languages/view.ctp:24
+msgid "Def"
+msgstr "Def"
+
+#: Template/Default/Languages/view.ctp:28
+msgid "Title"
+msgstr "Title"
+
+#: Template/Default/Newsletters/index.ctp:8
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: Template/Default/Newsletters/index.ctp:20
+msgid "All newsletter"
+msgstr "Tất cả bản tin"
+
+#: Template/Default/Newsletters/index.ctp:28
+#: Template/Default/Roles/view.ctp:60
+#: Template/Default/Settings/view.ctp:62
+#: Template/Default/Users/email_login.ctp:27
+#: Template/Default/Users/index.ctp:62
+#: Template/Default/Users/view.ctp:24
+msgid "Email"
+msgstr "Email"
+
+#: Template/Default/PageCategories/add.ctp:8;19
+#: Template/Default/PageCategories/edit.ctp:8;19
+#: Template/Default/PageCategories/index.ctp:8
+msgid "Category Page"
+msgstr "Danh mục trang đơn"
+
+#: Template/Default/PageCategories/add.ctp:21
+msgid "Add Category Page"
+msgstr "Thêm danh mục trang đơn"
+
+#: Template/Default/PageCategories/edit.ctp:22
+msgid "Edit Category Page"
+msgstr "Edit Category Page"
+
+#: Template/Default/PageCategories/index.ctp:19
+msgid "Category Page Manager"
+msgstr "Quản lý danh mục trang đơn"
+
+#: Template/Default/PageCategories/index.ctp:20
+msgid "All category page"
+msgstr "All category page"
+
+#: Template/Default/PageCategories/view.ctp:10
+msgid "Edit Page Category"
+msgstr "Edit Page Category"
+
+#: Template/Default/PageCategories/view.ctp:11
+msgid "Delete Page Category"
+msgstr "Delete Page Category"
+
+#: Template/Default/PageCategories/view.ctp:12
+#: Template/Default/Pages/view.ctp:14
+msgid "List Page Categories"
+msgstr "List Page Categories"
+
+#: Template/Default/PageCategories/view.ctp:13
+#: Template/Default/Pages/view.ctp:15
+msgid "New Page Category"
+msgstr "New Page Category"
+
+#: Template/Default/PageCategories/view.ctp:14
+msgid "List Parent Page Categories"
+msgstr "List Parent Page Categories"
+
+#: Template/Default/PageCategories/view.ctp:15
+msgid "New Parent Page Category"
+msgstr "New Parent Page Category"
+
+#: Template/Default/PageCategories/view.ctp:16
+msgid "List Child Page Categories"
+msgstr "List Child Page Categories"
+
+#: Template/Default/PageCategories/view.ctp:17
+msgid "New Child Page Category"
+msgstr "New Child Page Category"
+
+#: Template/Default/PageCategories/view.ctp:18
+#: Template/Default/Pages/view.ctp:12
+msgid "List Pages"
+msgstr "List Pages"
+
+#: Template/Default/PageCategories/view.ctp:19
+#: Template/Default/Pages/view.ctp:13
+msgid "New Page"
+msgstr "New Page"
+
+#: Template/Default/PageCategories/view.ctp:26
+msgid "Parent Page Category"
+msgstr "Parent Page Category"
+
+#: Template/Default/PageCategories/view.ctp:63
+msgid "Related Page Categories"
+msgstr "Related Page Categories"
+
+#: Template/Default/PageCategories/view.ctp:100
+msgid "Related Pages"
+msgstr "Related Pages"
+
+#: Template/Default/PageCategories/view.ctp:105
+msgid "Page Category Id"
+msgstr "Page Category Id"
+
+#: Template/Default/Pages/add.ctp:8;19
+#: Template/Default/Pages/edit.ctp:8;19
+#: Template/Default/Pages/index.ctp:8
+msgid "Page"
+msgstr "Trang đơn"
+
+#: Template/Default/Pages/add.ctp:21
+msgid "Add Page"
+msgstr "Thêm trang"
+
+#: Template/Default/Pages/edit.ctp:22
+#: Template/Default/Pages/view.ctp:10
+msgid "Edit Page"
+msgstr "Edit Page"
+
+#: Template/Default/Pages/index.ctp:19
+msgid "Page Manager"
+msgstr "Quản lý trang đơn"
+
+#: Template/Default/Pages/index.ctp:20
+msgid "All page"
+msgstr "Tất cả trang"
+
+#: Template/Default/Pages/view.ctp:11
+msgid "Delete Page"
+msgstr "Delete Page"
+
+#: Template/Default/Pages/view.ctp:24
+msgid "Page Category"
+msgstr "Quản lý danh mục"
+
+#: Template/Default/Pos/index.ctp:8
+#: Template/Default/Roles/add.ctp:8;19
+#: Template/Default/Roles/edit.ctp:8;19
+#: Template/Default/Roles/index.ctp:8;19
+#: Template/Default/Roles/permission.ctp:8
+#: Template/Default/Users/index.ctp:64
+#: Template/Default/Users/view.ctp:32
+msgid "Role"
+msgstr "Role"
+
+#: Template/Default/Pos/index.ctp:19
+msgid "translate"
+msgstr "translate"
+
+#: Template/Default/Pos/index.ctp:20
+msgid "All transalte"
+msgstr "All transalte"
+
+#: Template/Default/Pos/index.ctp:26
+msgid "Keyword"
+msgstr "Keyword"
+
+#: Template/Default/Pos/index.ctp:27
+msgid "Traslation String"
+msgstr "Traslation String"
+
+#: Template/Default/Pos/index.ctp:29
+msgid "Reference"
+msgstr "Reference"
+
+#: Template/Default/Roles/add.ctp:21
+msgid "Add Role"
+msgstr "Add Role"
+
+#: Template/Default/Roles/edit.ctp:22
+#: Template/Default/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr "Edit Role"
+
+#: Template/Default/Roles/index.ctp:20
+msgid "All roles"
+msgstr "All roles"
+
+#: Template/Default/Roles/index.ctp:62
+#: Template/Default/Roles/view.ctp:30
+msgid "Color"
+msgstr "Color"
+
+#: Template/Default/Roles/index.ctp:63
+#: Template/Default/Roles/view.ctp:34
+msgid "Description"
+msgstr "Description"
+
+#: Template/Default/Roles/index.ctp:64;84
+#: Template/Default/Roles/permission.ctp:9
+msgid "Permission"
+msgstr "Permission"
+
+#: Template/Default/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr "Delete Role"
+
+#: Template/Default/Roles/view.ctp:12
+#: Template/Default/Users/view.ctp:14
+msgid "List Roles"
+msgstr "List Roles"
+
+#: Template/Default/Roles/view.ctp:13
+#: Template/Default/Users/view.ctp:15
+msgid "New Role"
+msgstr "New Role"
+
+#: Template/Default/Roles/view.ctp:26
+msgid "Alias"
+msgstr "Alias"
+
+#: Template/Default/Roles/view.ctp:55
+msgid "Related Users"
+msgstr "Related Users"
+
+#: Template/Default/Roles/view.ctp:61
+#: Template/Default/Users/login.ctp:33
+#: Template/Default/Users/view.ctp:28
+msgid "Password"
+msgstr "Password"
+
+#: Template/Default/Roles/view.ctp:62
+msgid "Role Id"
+msgstr "Role Id"
+
+#: Template/Default/Roles/view.ctp:63
+#: Template/Default/Users/view.ctp:108
+msgid "Gender"
+msgstr "Gender"
+
+#: Template/Default/Roles/view.ctp:64
+#: Template/Default/Users/view.ctp:36
+msgid "First Name"
+msgstr "First Name"
+
+#: Template/Default/Roles/view.ctp:65
+#: Template/Default/Users/view.ctp:40
+msgid "Last Name"
+msgstr "Last Name"
+
+#: Template/Default/Roles/view.ctp:66
+#: Template/Default/Users/view.ctp:92
+msgid "Birthday"
+msgstr "Birthday"
+
+#: Template/Default/Roles/view.ctp:67
+#: Template/Default/Settings/view.ctp:70
+#: Template/Default/Users/view.ctp:44
+msgid "Phone Number"
+msgstr "Phone Number"
+
+#: Template/Default/Roles/view.ctp:70
+#: Template/Default/Settings/view.ctp:190
+#: Template/Default/Users/view.ctp:116
+msgid "Active"
+msgstr "Active"
+
+#: Template/Default/Roles/view.ctp:71
+#: Template/Default/Users/view.ctp:120
+msgid "System"
+msgstr "System"
+
+#: Template/Default/Roles/view.ctp:72
+#: Template/Default/Users/view.ctp:52
+msgid "Company"
+msgstr "Company"
+
+#: Template/Default/Roles/view.ctp:73
+#: Template/Default/Settings/view.ctp:58
+#: Template/Default/Users/view.ctp:56
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: Template/Default/Roles/view.ctp:74
+#: Template/Default/Users/view.ctp:60
+msgid "City"
+msgstr "Thành phố"
+
+#: Template/Default/Roles/view.ctp:75
+#: Template/Default/Users/view.ctp:64
+msgid "State"
+msgstr "State"
+
+#: Template/Default/Roles/view.ctp:76
+#: Template/Default/Users/view.ctp:68
+msgid "Zip Code"
+msgstr "Zip Code"
+
+#: Template/Default/Roles/view.ctp:77
+msgid "Country Id"
+msgstr "Country Id"
+
+#: Template/Default/Roles/view.ctp:78
+#: Template/Default/Users/view.ctp:125
+msgid "Note"
+msgstr "Note"
+
+#: Template/Default/Roles/view.ctp:79
+#: Template/Default/Users/view.ctp:76
+msgid "Fbid"
+msgstr "Fbid"
+
+#: Template/Default/Roles/view.ctp:80
+#: Template/Default/Users/view.ctp:80
+msgid "Ggid"
+msgstr "Ggid"
+
+#: Template/Default/Roles/view.ctp:81
+#: Template/Default/Users/view.ctp:96
+msgid "Last Visit"
+msgstr "Last Visit"
+
+#: Template/Default/Roles/view.ctp:82
+#: Template/Default/Users/view.ctp:88
+msgid "Has Read"
+msgstr "Has Read"
+
+#: Template/Default/Settings/add.ctp:10
+#: Template/Default/Settings/view.ctp:12
+msgid "List Settings"
+msgstr "List Settings"
+
+#: Template/Default/Settings/add.ctp:18
+msgid "Add Setting"
+msgstr "Thêm thiết lập"
+
+#: Template/Default/Settings/edit.ctp:8;19
+msgid "Setting"
+msgstr "Cấu hình"
+
+#: Template/Default/Settings/edit.ctp:21
+#: Template/Default/Settings/view.ctp:10
+msgid "Edit Setting"
+msgstr "Edit Setting"
+
+#: Template/Default/Settings/edit.ctp:114
+msgid "Enable Ip Config"
+msgstr "Enable Ip Config"
+
+#: Template/Default/Settings/index.ctp:10
+#: Template/Default/Settings/view.ctp:13
+msgid "New Setting"
+msgstr "New Setting"
+
+#: Template/Default/Settings/index.ctp:133
+msgid "first"
+msgstr "first"
+
+#: Template/Default/Settings/index.ctp:134
+msgid "previous"
+msgstr "previous"
+
+#: Template/Default/Settings/index.ctp:136
+msgid "next"
+msgstr "next"
+
+#: Template/Default/Settings/index.ctp:137
+msgid "last"
+msgstr "last"
+
+#: Template/Default/Settings/index.ctp:139
+#: Template/Element/Core/pagination.ctp:37
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+
+#: Template/Default/Settings/view.ctp:11
+msgid "Delete Setting"
+msgstr "Delete Setting"
+
+#: Template/Default/Settings/view.ctp:30
+msgid "Site Title"
+msgstr "Site Title"
+
+#: Template/Default/Settings/view.ctp:34
+msgid "Language Site"
+msgstr "Language Site"
+
+#: Template/Default/Settings/view.ctp:38
+msgid "Language Admin"
+msgstr "Language Admin"
+
+#: Template/Default/Settings/view.ctp:42
+msgid "Theme Admin"
+msgstr "Theme Admin"
+
+#: Template/Default/Settings/view.ctp:46
+msgid "Theme Site"
+msgstr "Theme Site"
+
+#: Template/Default/Settings/view.ctp:50
+msgid "Currency"
+msgstr "Currency"
+
+#: Template/Default/Settings/view.ctp:54
+msgid "Owner"
+msgstr "Owner"
+
+#: Template/Default/Settings/view.ctp:66
+msgid "Emailcc"
+msgstr "Emailcc"
+
+#: Template/Default/Settings/view.ctp:74
+msgid "Fax Number"
+msgstr "Fax Number"
+
+#: Template/Default/Settings/view.ctp:78
+msgid "Yahoo"
+msgstr "Yahoo"
+
+#: Template/Default/Settings/view.ctp:82
+msgid "Skype"
+msgstr "Skype"
+
+#: Template/Default/Settings/view.ctp:86
+msgid "Latitude"
+msgstr "Latitude"
+
+#: Template/Default/Settings/view.ctp:90
+msgid "Longitude"
+msgstr "Longitude"
+
+#: Template/Default/Settings/view.ctp:94
+msgid "Meta Keyword"
+msgstr "Meta Keyword"
+
+#: Template/Default/Settings/view.ctp:98
+msgid "Meta Description"
+msgstr "Meta Description"
+
+#: Template/Default/Settings/view.ctp:102
+msgid "Facebook Url"
+msgstr "Facebook Url"
+
+#: Template/Default/Settings/view.ctp:106
+msgid "Fb App Id"
+msgstr "Fb App Id"
+
+#: Template/Default/Settings/view.ctp:110
+msgid "Fb Secret"
+msgstr "Fb Secret"
+
+#: Template/Default/Settings/view.ctp:114
+msgid "Google Plus Url"
+msgstr "Google Plus Url"
+
+#: Template/Default/Settings/view.ctp:118
+msgid "Twitter Url"
+msgstr "Twitter Url"
+
+#: Template/Default/Settings/view.ctp:122
+msgid "Instagram Url"
+msgstr "Instagram Url"
+
+#: Template/Default/Settings/view.ctp:126
+msgid "Pinterest Url"
+msgstr "Pinterest Url"
+
+#: Template/Default/Settings/view.ctp:130
+msgid "Google Analytic"
+msgstr "Google Analytic"
+
+#: Template/Default/Settings/view.ctp:134
+msgid "Email Emailsend"
+msgstr "Email Emailsend"
+
+#: Template/Default/Settings/view.ctp:138
+msgid "Email Host"
+msgstr "Email Host"
+
+#: Template/Default/Settings/view.ctp:142
+msgid "Email Port"
+msgstr "Email Port"
+
+#: Template/Default/Settings/view.ctp:146
+msgid "Email Smtpsecure"
+msgstr "Email Smtpsecure"
+
+#: Template/Default/Settings/view.ctp:150
+msgid "Email User"
+msgstr "Email User"
+
+#: Template/Default/Settings/view.ctp:154
+msgid "Email Password"
+msgstr "Email Password"
+
+#: Template/Default/Settings/view.ctp:162
+msgid "Product Per Page"
+msgstr "Product Per Page"
+
+#: Template/Default/Settings/view.ctp:166
+msgid "Article Per Page"
+msgstr "Article Per Page"
+
+#: Template/Default/Settings/view.ctp:170
+msgid "Comment Per Page"
+msgstr "Comment Per Page"
+
+#: Template/Default/Settings/view.ctp:174
+msgid "Records Per Page"
+msgstr "Records Per Page"
+
+#: Template/Default/Settings/view.ctp:178
+msgid "User Group Default"
+msgstr "User Group Default"
+
+#: Template/Default/Settings/view.ctp:182
+msgid "Product Thumbs"
+msgstr "Product Thumbs"
+
+#: Template/Default/Settings/view.ctp:186
+msgid "Article Thumbs"
+msgstr "Article Thumbs"
+
+#: Template/Default/Settings/view.ctp:202
+msgid "Email Status"
+msgstr "Email Status"
+
+#: Template/Default/Settings/view.ctp:210
+msgid "Anysize"
+msgstr "Anysize"
+
+#: Template/Default/Users/add.ctp:21
+msgid "Add User"
+msgstr "Add User"
+
+#: Template/Default/Users/edit.ctp:22
+msgid "Edit Users"
+msgstr "Edit Users"
+
+#: Template/Default/Users/email_login.ctp:11
+msgid "Sign in with verification code."
+msgstr "Sign in with verification code."
+
+#: Template/Default/Users/email_login.ctp:31
+msgid "SEND TO EMAIL"
+msgstr "SEND TO EMAIL"
+
+#: Template/Default/Users/email_login.ctp:38
+msgid "Enter Code"
+msgstr "Enter Code"
+
+#: Template/Default/Users/email_login.ctp:42
+msgid "CONFIRM"
+msgstr "CONFIRM"
+
+#: Template/Default/Users/index.ctp:20
+msgid "All users"
+msgstr "All users"
+
+#: Template/Default/Users/login.ctp:11
+msgid "Hello! let's get started"
+msgstr "Hello! let's get started"
+
+#: Template/Default/Users/login.ctp:12
+msgid "Sign in to continue"
+msgstr "Sign in to continue"
+
+#: Template/Default/Users/login.ctp:26
+msgid "Username"
+msgstr "Username"
+
+#: Template/Default/Users/login.ctp:37
+msgid "SIGN IN"
+msgstr "SIGN IN"
+
+#: Template/Default/Users/view.ctp:10
+msgid "Edit User"
+msgstr "Edit User"
+
+#: Template/Default/Users/view.ctp:11
+msgid "Delete User"
+msgstr "Delete User"
+
+#: Template/Default/Users/view.ctp:16
+msgid "List Countries"
+msgstr "List Countries"
+
+#: Template/Default/Users/view.ctp:17
+msgid "New Country"
+msgstr "New Country"
+
+#: Template/Default/Users/view.ctp:72
+msgid "Country"
+msgstr "Quốc gia"
+
+#: Template/Element/header.ctp:34
+msgid "Search now"
+msgstr "Search now"
+
+#: Template/Element/header.ctp:44
+msgid "Select Language"
+msgstr "Select Language"
+
+#: Template/Element/header.ctp:82
+msgid "Clear Cache"
+msgstr "Clear Cache"
+
+#: Template/Element/menu.ctp:17
+msgid "Manage Banner"
+msgstr "Quản lý bảng nội dung"
+
+#: Template/Element/menu.ctp:25;79;131;184;237;296
+msgid "Manage Category"
+msgstr "Quản lý danh mục"
+
+#: Template/Element/menu.ctp:29;83;135;188;241;300
+msgid "Add Category"
+msgstr "Thêm danh mục"
+
+#: Template/Element/menu.ctp:71
+msgid "Manage Document"
+msgstr "Quản lý tài liệu"
+
+#: Template/Element/menu.ctp:123
+msgid "Manage Article"
+msgstr "Quản lý bài viết"
+
+#: Template/Element/menu.ctp:176
+msgid "Manage Pages"
+msgstr "Quản lý trang đơn"
+
+#: Template/Element/menu.ctp:180
+msgid "Add Pages"
+msgstr "Thêm nhiều trang"
+
+#: Template/Element/menu.ctp:229
+msgid "Manage Faq"
+msgstr "Quản lý hỏi đáp"
+
+#: Template/Element/menu.ctp:284
+msgid "Campaigns"
+msgstr "Campaigns"
+
+#: Template/Element/menu.ctp:288
+msgid "Manage Mails"
+msgstr "Quản lý danh sách mail"
+
+#: Template/Element/menu.ctp:292
+msgid "Import Mails"
+msgstr "Import Mails"
+
+#: Template/Element/menu.ctp:340
+msgid "All Newsletter"
+msgstr "Tất cả bản tin"
+
+#: Template/Element/menu.ctp:380
+msgid "Manage Users"
+msgstr "Quản lý thành viên"
+
+#: Template/Element/menu.ctp:384
+msgid "Add Users"
+msgstr "Thêm thành viên"
+
+#: Template/Element/menu.ctp:388
+msgid "Manage Roles"
+msgstr "Manage Roles"
+
+#: Template/Element/menu.ctp:392
+msgid "Add Roles"
+msgstr "Add Roles"
+
+#: Template/Element/menu.ctp:437
+msgid "Manage Languages"
+msgstr "Quản lý ngôn ngữ"
+
+#: Template/Element/menu.ctp:441
+msgid "Translates languages"
+msgstr "Dịch đa ngôn ngữ"
+
+#: Template/Element/menu.ctp:445
+msgid "Add Languages"
+msgstr "Thêm nhiều ngôn ngữ"
+
+#: Template/Element/Core/pagination.ctp:13
+msgid "Re-Order"
+msgstr "Re-Order"
+
+#: Template/Element/Flash/fly_error.ctp:10
+#: Template/Element/Flash/fly_info.ctp:10
+#: Template/Element/Flash/fly_success.ctp:10
+#: Template/Element/Flash/fly_warning.ctp:10
+msgid "Notifications"
+msgstr "Notifications"
+
+#: Template/Layout/default.ctp:8
+msgid "Admin"
+msgstr "Admin"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Error"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Back"
+
+#: Template/Layout/login.ctp:8
+msgid "Login | Admin"
+msgstr "Login | Admin"
+
+msgid "Albums"
+msgstr "Hình ảnh"
+
+msgid "Manage Album"
+msgstr "Quản lý hình ảnh"
+
+msgid "Add Album"
+msgstr "Thêm Hình ảnh"
+
+msgid "Products"
+msgstr "Sản phẩm"
+
+msgid "Manage Product"
+msgstr "Quản lý sản phẩm"
+
+msgid "Contacts"
+msgstr "Liên hệ"
