@@ -1,0 +1,72 @@
+#pwe-main-menu {
+  max-height: calc(100% - 232px);
+  overflow: scroll;
+}
+
+@media screen and (max-width: 575.82px) {
+  .btn-contact a, button.btn-contact {
+    padding: 10px 15px;
+    font-size: 11px;
+  }
+}
+
+.order-detail .table th {
+  border: unset;
+  border-left: 1px solid #dee2e6;
+  border-top: 1px solid #dee2e6;
+  border: 1px solid #dee2e6;
+  font-weight: 900;
+  font-family: 'Nunito Sans', sans-serif;
+  text-align: left;
+}
+
+@media screen and (max-width: 575.82px) {
+  .order-detail .table th {
+    display: none;
+  }
+}
+
+.order-detail .table td {
+  text-align: left;
+}
+
+@media screen and (max-width: 575.82px) {
+  .order-detail .table td {
+    font-size: 14px;
+  }
+}
+
+.order-detail .table td span {
+  color: #a2783a;
+  font-weight: 900;
+  font-size: 24px;
+}
+
+@media screen and (max-width: 575.82px) {
+  .order-detail .table td span {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .order-detail .table-mobile tr {
+    padding: unset;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    display: table;
+    width: 100%;
+    border: unset;
+    border-bottom: 0px solid #dee2e6;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .order-detail .table-mobile td, .order-detail .table-mobile th {
+    padding-left: 35% !important;
+  }
+}
+
+.item-box {
+  margin-bottom: 20px;
+}
+/*# sourceMappingURL=custom.css.map */
