@@ -1,0 +1,3 @@
+cms3=passwd=$6$uLf5LI2U$qlhxcmmcQcdmFtgOFS4NS7t3GLQOD4C8Jo.ijWpnwaKOBi/o0nNzN37Y/Xkr1rGDE39dbRb8kapQ3V.2VoZ8c1&path=/home/cms3/&type=system
+new@cmsv3.xyz=passwd=$6$YxWSSeIV$GNMuPhxZjhRveDMzLYJvV/7QMUFT7ePwFXKINmq6mRoG7a34ZuWQYLPQau9jVK5s1./K3w0BTjIebzczEJ1vg0&path=/home/cms3/&type=custom
+test@cmsv3.xyz=passwd=$6$IK5ZaE9m$1NO7e7omjmWOMBspISI.490tC61.sr8GT3YAC6DoFkOqcpfFzlBxzcHV6F1O0471eoPEhVXZ5MooYy1GJVv8S1&path=/home/cms3/&type=custom
